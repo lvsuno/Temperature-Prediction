@@ -1,0 +1,125 @@
+StationID,Name,Intervals,Year Start,Year End,Province
+7559,ALERT A,['Hourly'],1988,2024,NU
+42463,ALERT CLIMATE,"['Hourly', 'Daily', 'Monthly']",2004,2024,NU
+10744,ALERT UA,"['Daily', 'Monthly']",1997,2024,NU
+48973,ARCTIC BAY,"['Hourly', 'Daily']",2011,2024,NU
+50497,ARCTIC BAY A,['Hourly'],2012,2024,NU
+29517,ARCTIC BAY CS,"['Hourly', 'Daily', 'Monthly']",2000,2024,NU
+50718,ARVIAT A,['Hourly'],2012,2024,NU
+1708,ARVIAT A,"['Hourly', 'Daily', 'Monthly']",1984,2012,NU
+50557,ARVIAT A,"['Hourly', 'Daily']",2006,2024,NU
+41576,ARVIAT CLIMATE,"['Hourly', 'Daily', 'Monthly']",2004,2024,NU
+54138,BAKER LAKE A,"['Hourly', 'Daily']",2016,2024,NU
+51417,BAKER LAKE A,"['Hourly', 'Daily']",2013,2024,NU
+42583,BAKER LAKE CLIMATE,"['Hourly', 'Daily', 'Monthly']",2004,2024,NU
+50657,BATHURST INLET,"['Hourly', 'Daily']",2012,2024,NU
+54778,BERNARD HARBOUR,"['Hourly', 'Daily']",2021,2024,NU
+54779,BRAY ISLAND,"['Hourly', 'Daily']",2021,2023,NU
+1735,BREVOORT ISLAND,"['Hourly', 'Daily', 'Monthly']",1960,2023,NU
+1736,BROUGHTON ISLAND,"['Hourly', 'Daily', 'Monthly']",1956,2023,NU
+54139,CAMBRIDGE BAY A,"['Hourly', 'Daily']",2016,2024,NU
+53512,CAMBRIDGE BAY A,"['Hourly', 'Daily']",2015,2024,NU
+1786,CAMBRIDGE BAY A,"['Hourly', 'Daily', 'Monthly']",1953,2015,NU
+32233,CAMBRIDGE BAY GSN,"['Hourly', 'Daily', 'Monthly']",2002,2024,NU
+1738,CAPE DORSET A,"['Hourly', 'Daily', 'Monthly']",1970,2012,NU
+1739,CAPE DYER,"['Hourly', 'Daily', 'Monthly']",1955,2023,NU
+1742,CAPE HOOPER,"['Hourly', 'Daily', 'Monthly']",1956,2022,NU
+51618,CAPE LIVERPOOL,"['Hourly', 'Daily']",2013,2024,NU
+10839,CAPE MERCY,"['Hourly', 'Daily', 'Monthly']",1994,2018,NU
+10828,CAPE PEEL WEST,"['Hourly', 'Daily']",1994,2023,NU
+1712,CHESTERFIELD INLET A,"['Hourly', 'Daily', 'Monthly']",1985,2013,NU
+52968,CHESTERFIELD INLET A,"['Hourly', 'Daily']",2014,2024,NU
+51998,CHESTERFIELD INLET A,['Hourly'],2013,2024,NU
+51077,CLYDE RIVER A,"['Hourly', 'Daily']",2013,2024,NU
+51078,CLYDE RIVER A,['Hourly'],2013,2024,NU
+42244,CLYDE RIVER CLIMATE,"['Hourly', 'Daily', 'Monthly']",2004,2024,NU
+54220,CORAL HARBOUR A,"['Hourly', 'Daily']",2016,2024,NU
+53421,CORAL HARBOUR A,"['Hourly', 'Daily']",2015,2024,NU
+1713,CORAL HARBOUR A,"['Hourly', 'Daily', 'Monthly']",1953,2015,NU
+47347,CORAL HARBOUR RCS,"['Hourly', 'Daily']",2014,2024,NU
+10826,CROKER RIVER,"['Hourly', 'Daily', 'Monthly']",1994,2022,NU
+1746,DEWAR LAKES,"['Hourly', 'Daily', 'Monthly']",1956,2023,NU
+7341,ENNADAI LAKE (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,NU
+53598,EUREKA A,"['Hourly', 'Daily']",2016,2024,NU
+53599,EUREKA A,"['Hourly', 'Daily']",2016,2024,NU
+1750,EUREKA A,"['Hourly', 'Daily', 'Monthly']",1953,2016,NU
+50737,EUREKA CLIMATE,"['Hourly', 'Daily']",2013,2024,NU
+50658,FORT ROSS,"['Hourly', 'Daily']",2012,2024,NU
+49828,GATESHEAD ISLAND,"['Hourly', 'Daily']",2011,2024,NU
+51079,GJOA HAVEN A,"['Hourly', 'Daily']",2013,2024,NU
+51082,GJOA HAVEN A,['Hourly'],2013,2024,NU
+1715,GJOA HAVEN A,"['Hourly', 'Daily', 'Monthly']",1984,2013,NU
+41943,GJOA HAVEN CLIMATE,"['Hourly', 'Daily', 'Monthly']",2003,2024,NU
+1754,GRISE FIORD,"['Hourly', 'Daily', 'Monthly']",1984,2015,NU
+53514,GRISE FIORD A,"['Hourly', 'Daily']",2015,2024,NU
+53513,GRISE FIORD A,['Hourly'],2015,2024,NU
+46568,GRISE FIORD CLIMATE,"['Hourly', 'Daily']",2007,2024,NU
+1755,HALL BEACH A,"['Hourly', 'Daily', 'Monthly']",1956,2012,NU
+1716,HAT ISLAND,"['Hourly', 'Daily', 'Monthly']",1994,2023,NU
+53334,IGLOOLIK A,['Hourly'],2015,2024,NU
+1757,IGLOOLIK A,"['Hourly', 'Daily', 'Monthly']",1984,2015,NU
+53333,IGLOOLIK A,"['Hourly', 'Daily']",2015,2024,NU
+52079,IQALUIT A,"['Hourly', 'Daily']",2014,2024,NU
+1758,IQALUIT A,"['Hourly', 'Daily', 'Monthly']",1953,2014,NU
+47388,IQALUIT AWOS,"['Hourly', 'Daily']",2008,2015,NU
+42503,IQALUIT CLIMATE,"['Hourly', 'Daily', 'Monthly']",2004,2024,NU
+10082,IQALUIT UA,"['Daily', 'Monthly']",1997,2016,NU
+10253,ISACHSEN (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,NU
+8272,KIMMIRUT A,"['Hourly', 'Daily', 'Monthly']",1987,2015,NU
+53517,KIMMIRUT A,"['Hourly', 'Daily']",2015,2024,NU
+51424,KIMMIRUT A,['Hourly'],2015,2024,NU
+43163,KINNGAIT,"['Hourly', 'Daily', 'Monthly']",2005,2024,NU
+50288,KINNGAIT AIRPORT,['Hourly'],2012,2024,NU
+50328,KINNGAIT AIRPORT,"['Hourly', 'Daily']",2012,2024,NU
+53518,KUGAARUK A,"['Hourly', 'Daily']",2015,2024,NU
+1719,KUGAARUK A,"['Hourly', 'Daily', 'Monthly']",1984,2015,NU
+53515,KUGAARUK A,['Hourly'],2015,2024,NU
+43006,KUGAARUK CLIMATE,"['Hourly', 'Daily', 'Monthly']",2004,2024,NU
+54158,KUGLUKTUK A,"['Hourly', 'Daily']",2016,2024,NU
+53335,KUGLUKTUK A,"['Hourly', 'Daily']",2014,2024,NU
+1641,KUGLUKTUK A,"['Hourly', 'Daily', 'Monthly']",1978,2014,NU
+43003,KUGLUKTUK CLIMATE,"['Hourly', 'Daily', 'Monthly']",2005,2024,NU
+1764,LONGSTAFF BLUFF,"['Hourly', 'Daily', 'Monthly']",1955,2023,NU
+27376,LUPIN CS,"['Hourly', 'Daily', 'Monthly']",1997,2024,NU
+52001,NAUJAAT A,['Hourly'],2013,2024,NU
+52983,NAUJAAT A,"['Hourly', 'Daily']",2014,2024,NU
+10721,PANGNIRTUNG,"['Hourly', 'Daily', 'Monthly']",1994,2024,NU
+51217,PANGNIRTUNG A,"['Hourly', 'Daily']",2013,2024,NU
+51158,PANGNIRTUNG A,['Hourly'],2013,2024,NU
+8273,PANGNIRTUNG A,"['Hourly', 'Daily', 'Monthly']",1987,2013,NU
+10847,PELLY BAY,"['Hourly', 'Daily', 'Monthly']",1994,2023,NU
+51080,POND INLET A,"['Hourly', 'Daily']",2013,2024,NU
+1774,POND INLET A,"['Hourly', 'Daily', 'Monthly']",1975,2013,NU
+51081,POND INLET A,['Hourly'],2013,2024,NU
+43223,POND INLET CLIMATE,"['Hourly', 'Daily', 'Monthly']",2004,2024,NU
+51218,QIKIQTARJUAQ A,"['Hourly', 'Daily']",2013,2024,NU
+8271,QIKIQTARJUAQ A,"['Hourly', 'Daily', 'Monthly']",1988,2013,NU
+51177,QIKIQTARJUAQ A,['Hourly'],2013,2024,NU
+42803,QIKIQTARJUAQ CLIMATE,"['Hourly', 'Daily', 'Monthly']",2005,2024,NU
+51277,RANKIN INLET A,"['Hourly', 'Daily']",2013,2024,NU
+1793,REA POINT,"['Hourly', 'Daily', 'Monthly']",1969,2024,NU
+1775,REPULSE BAY A,"['Hourly', 'Daily', 'Monthly']",1984,2013,NU
+54199,RESOLUTE BAY A,"['Hourly', 'Daily']",2016,2024,NU
+53060,RESOLUTE BAY A,"['Hourly', 'Daily']",2014,2024,NU
+1776,RESOLUTE CARS,"['Hourly', 'Daily', 'Monthly']",1953,2014,NU
+32150,RESOLUTE CS,"['Hourly', 'Daily', 'Monthly']",2002,2024,NU
+1778,RESOLUTION ISLAND,"['Hourly', 'Daily', 'Monthly']",1962,2022,NU
+7337,ROBERTSON LAKE (AUT),"['Hourly', 'Daily', 'Monthly']",1992,2024,NU
+1779,ROWLEY ISLAND,"['Hourly', 'Daily', 'Monthly']",1994,2023,NU
+52658,SANIKILUAQ,"['Hourly', 'Daily']",2014,2024,NU
+8274,SANIKILUAQ A,['Hourly'],1988,2014,NU
+53336,SANIKILUAQ A,"['Hourly', 'Daily']",2014,2024,NU
+53337,SANIKILUAQ A,['Hourly'],2014,2024,NU
+42483,SANIRAJAK,"['Hourly', 'Daily', 'Monthly']",2004,2024,NU
+50498,SANIRAJAK AIRPORT,"['Hourly', 'Daily']",2012,2024,NU
+50499,SANIRAJAK AIRPORT,['Hourly'],2012,2024,NU
+1723,SHEPHERD BAY A,"['Hourly', 'Daily', 'Monthly']",1973,2023,NU
+32148,STEFANSSON ISLAND,"['Hourly', 'Daily', 'Monthly']",2002,2024,NU
+50659,SVARTEVAEG,"['Hourly', 'Daily']",2012,2024,NU
+53340,TALOYOAK A,"['Hourly', 'Daily', 'Monthly']",2015,2024,NU
+1783,TALOYOAK A,"['Hourly', 'Daily', 'Monthly']",1984,2015,NU
+54219,TALOYOAK A,"['Hourly', 'Daily']",2016,2024,NU
+31167,WAGER BAY (AUT),"['Hourly', 'Daily', 'Monthly']",2001,2024,NU
+51443,WHALE COVE A,['Hourly'],2013,2024,NU
+1727,WHALE COVE A,"['Hourly', 'Daily', 'Monthly']",1984,2013,NU
+52984,WHALE COVE A,"['Hourly', 'Daily']",2014,2024,NU

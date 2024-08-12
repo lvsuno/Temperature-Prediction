@@ -1,0 +1,320 @@
+StationID,Name,Intervals,Year Start,Year End,Province
+32232,ABEE AGDM,"['Hourly', 'Daily', 'Monthly']",1990,2024,AB
+47748,ACADIA VALLEY,"['Hourly', 'Daily']",2009,2024,AB
+46127,ALBERT HALL AGCM,"['Hourly', 'Daily', 'Monthly']",2007,2024,AB
+46327,ALLIANCE AGCM,"['Hourly', 'Daily', 'Monthly']",2007,2024,AB
+1812,ANDREW,"['Daily', 'Monthly']",1973,2017,AB
+32253,ANDREW AGDM,"['Hourly', 'Daily', 'Monthly']",1998,2024,AB
+53098,ARDENVILLE,"['Hourly', 'Daily']",2014,2024,AB
+2459,ATHABASCA 1,"['Daily', 'Monthly']",1986,2022,AB
+47047,ATHABASCA AGCM,"['Hourly', 'Daily']",2008,2024,AB
+47787,ATLEE AGCM,"['Hourly', 'Daily']",2009,2024,AB
+32231,ATMORE AGDM,"['Hourly', 'Daily', 'Monthly']",1992,2024,AB
+47727,AZURE,"['Hourly', 'Daily']",2008,2024,AB
+2655,BALLATER,"['Daily', 'Monthly']",1990,2014,AB
+49048,BALLATER AGCM,"['Hourly', 'Daily']",2010,2024,AB
+27378,BANFF CS,"['Hourly', 'Daily', 'Monthly']",1997,2024,AB
+31408,BARNWELL AGDM,"['Hourly', 'Daily', 'Monthly']",2001,2024,AB
+46447,BARONS AGCM,"['Hourly', 'Daily', 'Monthly']",2006,2024,AB
+30641,BARRHEAD CS,"['Hourly', 'Daily', 'Monthly']",2000,2024,AB
+46467,BASSANO AGCM,"['Hourly', 'Daily', 'Monthly']",2007,2024,AB
+50028,BEAVER MINES,"['Hourly', 'Daily']",2012,2024,AB
+55418,BEAVERDAM AGCM,"['Hourly', 'Daily']",2023,2024,AB
+30669,BEAVERLODGE RCS,"['Hourly', 'Daily', 'Monthly']",2001,2024,AB
+46468,BEISEKER AGCM,"['Hourly', 'Daily', 'Monthly']",2007,2024,AB
+46128,BELLSHILL AGCM,"['Hourly', 'Daily']",2007,2024,AB
+46469,BIG VALLEY AGCM,"['Hourly', 'Daily']",2007,2024,AB
+47747,BLACK DIAMOND,"['Hourly', 'Daily']",2008,2024,AB
+50917,BLACKIE AGCM,"['Hourly', 'Daily']",2012,2024,AB
+42703,BLOOD TRIBE AGDM,"['Hourly', 'Daily', 'Monthly']",2004,2024,AB
+32149,BODO AGDM,"['Hourly', 'Daily', 'Monthly']",1995,2024,AB
+10915,BOW ISLAND,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+42723,BOW ISLAND IRRIGATION AGDM,"['Hourly', 'Daily', 'Monthly']",2004,2022,AB
+10222,BOW VALLEY,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+1825,BRETON,"['Daily', 'Monthly']",1961,2024,AB
+10928,BRETON PLOTS,"['Hourly', 'Daily', 'Monthly']",1995,2024,AB
+31407,BROCKET AGDM,"['Hourly', 'Daily', 'Monthly']",2002,2024,AB
+2180,BROOKS,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+47067,BROWNVALE AGCM,"['Hourly', 'Daily']",2008,2024,AB
+2485,BRULE BLACK CAT,"['Daily', 'Monthly']",1985,2024,AB
+50920,BUFFALO AGCM,"['Hourly', 'Daily']",2012,2024,AB
+50921,BULL SPRINGS AGCM,"['Hourly', 'Daily']",2012,2024,AB
+45747,BULLHORN COULEE RESERVOIR,"['Hourly', 'Daily', 'Monthly']",2006,2024,AB
+45749,BULLHORN HEADWATERS,"['Hourly', 'Daily', 'Monthly']",2007,2024,AB
+6854,BUSBY,"['Daily', 'Monthly']",1993,2015,AB
+47068,BUSBY AGCM,"['Hourly', 'Daily']",2008,2024,AB
+49948,CABIN LAKE AGCM,"['Hourly', 'Daily']",2012,2024,AB
+46470,CADOGAN AGCM,"['Hourly', 'Daily']",2007,2024,AB
+27211,CALGARY INT'L CS,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+50430,CALGARY INTL A,"['Hourly', 'Daily']",2012,2024,AB
+50623,CALGARY SPRINGBANK A,"['Hourly', 'Daily']",2012,2014,AB
+52200,CALGARY SPRINGBANK A,"['Hourly', 'Daily']",2014,2024,AB
+1835,CALMAR,"['Daily', 'Monthly']",1914,2024,AB
+51899,CAMPSIE AUTO,"['Hourly', 'Daily']",2013,2024,AB
+1839,CAMROSE,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+1840,CAMROSE 2,"['Daily', 'Monthly']",1947,2016,AB
+53099,CAPPON,"['Hourly', 'Daily']",2014,2024,AB
+26971,CARDSTON,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+30055,CARNWOOD,"['Daily', 'Monthly']",2000,2016,AB
+53918,CARROT CREEK,"['Hourly', 'Daily']",2015,2024,AB
+49968,CARWAY,"['Hourly', 'Daily']",2012,2024,AB
+50938,CEREAL AGCM,"['Hourly', 'Daily']",2012,2024,AB
+32254,CHAMPION AGDM,"['Hourly', 'Daily', 'Monthly']",1992,2024,AB
+2224,CLARESHOLM,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+51838,CLEAR HILLS AGCM,"['Hourly', 'Daily']",2013,2024,AB
+32255,CLEARDALE AGDM,"['Hourly', 'Daily', 'Monthly']",1990,2024,AB
+2832,COLD LAKE A,"['Hourly', 'Daily', 'Monthly']",1954,2024,AB
+32230,CONSORT AGDM,"['Hourly', 'Daily', 'Monthly']",2002,2024,AB
+9010,COP UPPER,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+27212,CORONATION CLIMATE,"['Hourly', 'Daily', 'Monthly']",1999,2024,AB
+2068,CRAIGMYLE,"['Daily', 'Monthly']",1954,2018,AB
+46471,CRAIGMYLE AGCM,"['Hourly', 'Daily', 'Monthly']",2007,2024,AB
+47069,CRESTOMERE AGCM,"['Hourly', 'Daily']",2008,2024,AB
+10890,CROWSNEST,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+1857,DAKOTA WEST,"['Daily', 'Monthly']",1963,2024,AB
+31414,DAPP AGDM,"['Hourly', 'Daily', 'Monthly']",1990,2021,AB
+51839,DEADWOOD AGCM,"['Hourly', 'Daily']",2013,2024,AB
+32256,DEL BONITA AGDM,"['Hourly', 'Daily', 'Monthly']",1992,2024,AB
+46730,DELBURNE AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+46731,DEWBERRY AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+30433,DONALDA SOUTH,"['Daily', 'Monthly']",2000,2016,AB
+10708,DRUMHELLER EAST,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+55419,DUCK LAKE AGCM,"['Hourly', 'Daily']",2023,2024,AB
+47070,DUPRE AGCM,"['Hourly', 'Daily']",2008,2024,AB
+47071,EAGLESHAM AGCM,"['Hourly', 'Daily']",2008,2024,AB
+46129,EDGERTON AGCM,"['Hourly', 'Daily']",2007,2024,AB
+27214,EDMONTON BLATCHFORD,"['Hourly', 'Daily', 'Monthly']",1999,2024,AB
+31427,EDMONTON CITY CENTRE AWOS,"['Hourly', 'Daily', 'Monthly']",2004,2015,AB
+54718,EDMONTON EER,['Hourly'],2016,2017,AB
+27793,EDMONTON INTERNATIONAL CS,"['Hourly', 'Daily', 'Monthly']",1999,2024,AB
+50149,EDMONTON INTL A,"['Hourly', 'Daily']",2012,2024,AB
+1868,EDMONTON NAMAO A,"['Hourly', 'Daily', 'Monthly']",1955,2024,AB
+30907,EDMONTON NAMAO AWOS A,"['Hourly', 'Daily', 'Monthly']",2000,2022,AB
+53718,EDMONTON SOUTH CAMPUS,"['Hourly', 'Daily']",2015,2024,AB
+1870,EDMONTON STONY PLAIN,"['Hourly', 'Daily', 'Monthly']",1994,2019,AB
+27492,EDMONTON STONY PLAIN CS,"['Hourly', 'Daily', 'Monthly']",2000,2024,AB
+51758,EDMONTON VILLENEUVE A,"['Hourly', 'Daily']",2013,2024,AB
+1872,EDMONTON WOODBEND,"['Daily', 'Monthly']",1973,2015,AB
+48948,EDSON,"['Hourly', 'Daily']",2010,2024,AB
+27213,EDSON CLIMATE,"['Hourly', 'Daily', 'Monthly']",1996,2024,AB
+31027,EGG ISLAND,"['Hourly', 'Daily', 'Monthly']",1993,2024,AB
+1873,ELK ISLAND NAT PARK,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+42724,ENCHANT AGDM,"['Hourly', 'Daily', 'Monthly']",2004,2024,AB
+2513,ENTWISTLE,"['Daily', 'Monthly']",1987,2024,AB
+10225,ESTHER 1,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+46732,ETZIKOM AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+47072,EVANSBURG AGCM,"['Hourly', 'Daily']",2008,2015,AB
+54358,EVANSBURG2 AGCM,"['Hourly', 'Daily']",2016,2024,AB
+1881,FABYAN,"['Daily', 'Monthly']",1966,2024,AB
+31469,FAIRVIEW AGDM,"['Hourly', 'Daily', 'Monthly']",1997,2024,AB
+46733,FERINTOSH AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+42727,FINCASTLE AGDM,"['Hourly', 'Daily', 'Monthly']",2004,2024,AB
+52459,FINNEGAN AGCM,"['Hourly', 'Daily']",2013,2024,AB
+51502,FLEET AGCM,"['Hourly', 'Daily']",2013,2024,AB
+32257,FOREMOST AGDM,"['Hourly', 'Daily', 'Monthly']",1999,2024,AB
+46130,FORESTBURG AGCM,"['Hourly', 'Daily']",2007,2024,AB
+1884,FORESTBURG PLANT SITE,"['Daily', 'Monthly']",1967,2023,AB
+47128,FORT ASSINIBOINE AGCM,"['Hourly', 'Daily']",2008,2024,AB
+48975,FORT CHIPEWYAN,"['Hourly', 'Daily']",2011,2024,AB
+31608,FORT CHIPEWYAN AWOS A,"['Hourly', 'Daily']",2006,2016,AB
+50757,FORT CHIPEWYAN RCS,"['Hourly', 'Daily']",2012,2024,AB
+46734,FORT MACLEOD AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+49490,FORT MCMURRAY A,"['Hourly', 'Daily']",2011,2024,AB
+27216,FORT MCMURRAY CS,"['Hourly', 'Daily', 'Monthly']",1999,2024,AB
+1886,FORT SASKATCHEWAN,"['Daily', 'Monthly']",1958,2024,AB
+30495,FORT VERMILION,"['Hourly', 'Daily', 'Monthly']",2000,2024,AB
+10932,GARDEN RIVER,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+46131,GILT EDGE NORTH AGCM,"['Hourly', 'Daily']",2007,2024,AB
+51501,GLADSTONE AGCM,"['Hourly', 'Daily']",2013,2024,AB
+47073,GLEICHEN AGCM,"['Hourly', 'Daily']",2008,2024,AB
+47074,GLENEVIS AGCM,"['Hourly', 'Daily']",2008,2024,AB
+45748,GLENWOOD,"['Hourly', 'Daily', 'Monthly']",2006,2024,AB
+51578,GOOSEBERRY LAKE AGCM,"['Hourly', 'Daily']",2013,2024,AB
+51422,GRANDE PRAIRIE A,"['Hourly', 'Daily']",2013,2024,AB
+45647,GRASSY LAKE,"['Hourly', 'Daily', 'Monthly']",2006,2024,AB
+46787,HALKIRK AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+50939,HAND HILLS AGCM,"['Hourly', 'Daily']",2012,2024,AB
+47075,HAWK HILLS AGCM,"['Hourly', 'Daily']",2008,2024,AB
+46907,HEMARUKA AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+26870,HENDRICKSON CREEK,"['Hourly', 'Daily', 'Monthly']",1995,2024,AB
+47076,HESPERO AGCM,"['Hourly', 'Daily']",2008,2024,AB
+55118,HIGH LEVEL,"['Hourly', 'Daily']",2020,2024,AB
+2726,HIGH LEVEL A,"['Hourly', 'Daily', 'Monthly']",1970,2012,AB
+50622,HIGH LEVEL A,['Hourly'],2012,2024,AB
+49928,HIGH LEVEL A,"['Hourly', 'Daily']",2011,2024,AB
+32274,HIGH PRAIRIE AGDM,"['Hourly', 'Daily', 'Monthly']",2002,2024,AB
+29926,HINTON VALLEY,"['Daily', 'Monthly']",2000,2024,AB
+32395,HOLDEN AGDM,"['Hourly', 'Daily', 'Monthly']",2001,2024,AB
+1898,HOLDEN SOUTH,"['Daily', 'Monthly']",1981,2018,AB
+46908,HUGHENDEN AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+31409,HUSSAR AGDM,"['Hourly', 'Daily', 'Monthly']",2002,2024,AB
+42728,IRON SPRINGS AGDM,"['Hourly', 'Daily', 'Monthly']",2004,2023,AB
+46807,IRVINE AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+53358,ISLAND LAKE SOUTH,"['Hourly', 'Daily']",2015,2024,AB
+53198,ISPAS,"['Hourly', 'Daily']",2014,2024,AB
+10223,JASPER WARDEN,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+47077,JEAN COTE AGCM,"['Hourly', 'Daily']",2008,2024,AB
+2402,KANANASKIS,"['Daily', 'Monthly']",1939,2024,AB
+2404,KANANASKIS POCATERRA,"['Daily', 'Monthly']",1976,2018,AB
+51840,KEG RIVER AGCM,"['Hourly', 'Daily']",2013,2024,AB
+50940,KEOMA AGCM,"['Hourly', 'Daily']",2012,2024,AB
+46909,KESSLER AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+32313,KILLAM AGDM,"['Hourly', 'Daily', 'Monthly']",2002,2024,AB
+53999,KINIKINIK,"['Hourly', 'Daily']",2015,2024,AB
+49049,KINSELLA RESEARC STATION,"['Hourly', 'Daily']",2010,2024,AB
+51500,KIRRIEMUIR AGCM,"['Hourly', 'Daily']",2013,2024,AB
+46808,KITSCOTY AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+47147,LA CRETE AGCM,"['Hourly', 'Daily']",2008,2024,AB
+47087,LA GLACE AGCM,"['Hourly', 'Daily']",2008,2024,AB
+30726,LAC LA BICHE CLIMATE,"['Hourly', 'Daily', 'Monthly']",2003,2024,AB
+10906,LACOMBE CDA 2,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+51499,LATHOM AGCM,"['Hourly', 'Daily']",2013,2024,AB
+43561,LEEDALE AGDM,"['Hourly', 'Daily', 'Monthly']",2004,2024,AB
+47088,LEGAL AGCM,"['Hourly', 'Daily']",2008,2024,AB
+49268,LETHBRIDGE,"['Hourly', 'Daily']",2011,2024,AB
+50128,LETHBRIDGE A,['Hourly'],2012,2024,AB
+51377,LETHBRIDGE AGTECH AGCM,"['Hourly', 'Daily']",2013,2024,AB
+2265,LETHBRIDGE CDA,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+46867,LETHBRIDGE CDA 2,"['Daily', 'Monthly']",2004,2024,AB
+42726,LETHBRIDGE DEMO FARM AGDM,"['Hourly', 'Daily', 'Monthly']",2004,2024,AB
+43560,LINDBERGH AGDM,"['Hourly', 'Daily', 'Monthly']",2004,2024,AB
+46910,LINDEN AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+48550,LLOYDMINSTER,"['Hourly', 'Daily']",2006,2024,AB
+1920,LLOYDMINSTER A,"['Hourly', 'Daily', 'Monthly']",1982,2012,AB
+50311,LLOYDMINSTER A,['Hourly'],2012,2024,AB
+55478,LLOYDMINSTER LITE,"['Hourly', 'Daily']",2023,2024,AB
+52458,LODGE CREEK,"['Hourly', 'Daily']",2014,2024,AB
+2750,MANNING,"['Daily', 'Monthly']",1985,2019,AB
+32394,MANNING AGDM,"['Hourly', 'Daily', 'Monthly']",2002,2024,AB
+46767,MANNVILLE AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+46809,MANYBERRIES AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+31411,MASINASIN AGDM,"['Hourly', 'Daily', 'Monthly']",2002,2024,AB
+48949,MEDICINE HAT,"['Hourly', 'Daily']",2010,2024,AB
+50129,MEDICINE HAT A,['Hourly'],2012,2024,AB
+30347,MEDICINE HAT RCS,"['Hourly', 'Daily', 'Monthly']",2001,2024,AB
+10978,MILDRED LAKE,"['Hourly', 'Daily', 'Monthly']",1994,2023,AB
+8804,MILK RIVER,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+45767,MILK RIVER RIDGE RESERVOIR,"['Hourly', 'Daily', 'Monthly']",2007,2024,AB
+1935,MONITOR,"['Daily', 'Monthly']",1983,2024,AB
+32433,MORRIN AGDM,"['Hourly', 'Daily', 'Monthly']",1991,2024,AB
+46810,MOSSLEIGH AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+27199,MOUNTAIN VIEW VILLAGE,"['Daily', 'Monthly']",1996,2015,AB
+41785,MUNDARE AGDM,"['Hourly', 'Daily', 'Monthly']",2003,2024,AB
+46811,MYRNAM LITE,"['Hourly', 'Daily', 'Monthly']",2008,2022,AB
+10104,NAKISKA RIDGETOP,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+46911,NEW SAREPTA AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+43580,NIER AGDM,"['Hourly', 'Daily', 'Monthly']",2005,2024,AB
+30543,NORDEGG CS,"['Hourly', 'Daily', 'Monthly']",2001,2024,AB
+2173,OKOTOKS,"['Daily', 'Monthly']",1990,2024,AB
+2120,OLDS,"['Daily', 'Monthly']",1914,2015,AB
+32453,OLDS AGDM,"['Hourly', 'Daily', 'Monthly']",2002,2024,AB
+41783,OLIVER AGDM,"['Hourly', 'Daily', 'Monthly']",2003,2024,AB
+10725,ONEFOUR CDA,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+31410,OYEN AGDM,"['Hourly', 'Daily', 'Monthly']",2002,2024,AB
+2123,OYEN CARA,"['Daily', 'Monthly']",1988,2014,AB
+46912,PAKOWKI LAKE AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+50923,PATRICIA AGCM,"['Hourly', 'Daily']",2012,2024,AB
+2770,PEACE RIVER A,"['Hourly', 'Daily', 'Monthly']",1955,2014,AB
+52258,PEACE RIVER A,"['Hourly', 'Daily']",2014,2024,AB
+10665,PEKISKO,"['Hourly', 'Daily', 'Monthly']",2005,2024,AB
+31468,PEORIA AGDM,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+55338,PIBROCH AGCM,"['Hourly', 'Daily']",2022,2024,AB
+2174,PICTURE BUTTE WEST,"['Daily', 'Monthly']",1987,2023,AB
+49368,PINCHER CREEK,"['Hourly', 'Daily']",2011,2024,AB
+27218,PINCHER CREEK CLIMATE,"['Hourly', 'Daily', 'Monthly']",2010,2024,AB
+51498,PINHORN AGCM,"['Hourly', 'Daily']",2013,2024,AB
+54000,PLEASANT VIEW,"['Hourly', 'Daily']",2015,2024,AB
+32454,POLLOCKVILLE AGDM,"['Hourly', 'Daily', 'Monthly']",1999,2024,AB
+41784,PRENTISS,"['Hourly', 'Daily', 'Monthly']",2003,2024,AB
+48468,PRIDDIS OBSERVATORY,"['Hourly', 'Daily']",2010,2024,AB
+2295,QUEENSTOWN,"['Daily', 'Monthly']",1961,2024,AB
+47767,QUEENSTOWN,"['Hourly', 'Daily']",2009,2023,AB
+47089,RADWAY AGCM,"['Hourly', 'Daily']",2008,2024,AB
+53738,RAINIER AGCM,"['Hourly', 'Daily']",2015,2024,AB
+50918,RALSTON AGCM,"['Hourly', 'Daily']",2012,2024,AB
+1958,RANFURLY 2NW,"['Daily', 'Monthly']",1980,2014,AB
+51898,RANFURLY AUTO,"['Hourly', 'Daily']",2013,2024,AB
+42729,RAYMOND AGDM,"['Hourly', 'Daily', 'Monthly']",2004,2024,AB
+2134,RED DEER A,"['Hourly', 'Daily', 'Monthly']",1953,2014,AB
+54478,RED DEER OVERLAP,['Daily'],2018,2021,AB
+51440,RED DEER REGIONAL A,"['Hourly', 'Daily']",2014,2021,AB
+55018,RED DEER REGIONAL A,"['Hourly', 'Daily']",2020,2024,AB
+10183,RED EARTH,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+55538,REDWATER INDUSTRIAL AGCM,"['Hourly', 'Daily']",2023,2024,AB
+46812,RIBSTONE SOUTH AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+31413,RICH LAKE AGDM,"['Hourly', 'Daily', 'Monthly']",1997,2024,AB
+46132,RIVERCOURSE AGCM,"['Hourly', 'Daily', 'Monthly']",2007,2024,AB
+51841,ROCKY LANE AGCM,"['Hourly', 'Daily']",2013,2024,AB
+8712,ROCKY MTN HOUSE (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+46827,ROLLING HILLS AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+55098,ROMA,"['Hourly', 'Daily']",2020,2024,AB
+46847,ROSALIND AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+42731,ROSEMARY AGDM,"['Hourly', 'Daily', 'Monthly']",2004,2024,AB
+47090,RYCROFT AGCM,"['Hourly', 'Daily']",2008,2024,AB
+47107,SAVANNA AGCM,"['Hourly', 'Daily']",2008,2024,AB
+32455,SCHULER AGDM,"['Hourly', 'Daily', 'Monthly']",2001,2024,AB
+46887,SEDALIA AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+1974,SEDGEWICK TOWN,"['Daily', 'Monthly']",1987,2016,AB
+42730,SEVEN PERSONS AGDM,"['Hourly', 'Daily']",2004,2024,AB
+50937,SHEERNESS AGCM,"['Hourly', 'Daily']",2012,2024,AB
+46848,SHONTS AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+2144,SIBBALD WESTGARD,"['Daily', 'Monthly']",1988,2018,AB
+2793,SIMONETTE,"['Daily', 'Monthly']",1973,2022,AB
+49369,SLAVE LAKE,"['Hourly', 'Daily']",2011,2024,AB
+31528,SLAVE LAKE AWOS A,"['Hourly', 'Daily']",2006,2014,AB
+50777,SLAVE LAKE RCS,"['Hourly', 'Daily']",2012,2024,AB
+2145,SLEEPY HOLLOW,"['Daily', 'Monthly']",1988,2014,AB
+32456,SMOKY LAKE AGDM,"['Hourly', 'Daily', 'Monthly']",1990,2024,AB
+50922,SOCIAL PLAINS AGCM,"['Hourly', 'Daily']",2012,2024,AB
+29633,SPIRIT RIVER AUTO STATION,"['Hourly', 'Daily', 'Monthly']",1999,2018,AB
+46913,SPONDIN AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+49050,ST. ALBERT RESEARCH STATION,"['Hourly', 'Daily']",2010,2024,AB
+53998,ST. FRANCIS,"['Hourly', 'Daily']",2015,2024,AB
+47127,ST. LINA AGCM,"['Hourly', 'Daily']",2008,2024,AB
+45727,ST. MARY RESERVOIR,"['Hourly', 'Daily', 'Monthly']",2006,2024,AB
+32457,ST. PAUL AGCM,"['Hourly', 'Daily', 'Monthly']",2003,2024,AB
+46849,STANDARD AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+27200,STAVELY AAFC,"['Hourly', 'Daily', 'Monthly']",1996,2024,AB
+32458,STETTLER AGDM,"['Hourly', 'Daily', 'Monthly']",2003,2024,AB
+42725,STRATHMORE AGDM,"['Hourly', 'Daily', 'Monthly']",2004,2024,AB
+2312,SUFFIELD A,"['Hourly', 'Daily', 'Monthly']",1953,2020,AB
+10105,SUNDRE A,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+53100,SUNNYNOOK AGCM,"['Hourly', 'Daily']",2014,2024,AB
+52478,SWEETGRASS LANDING,"['Hourly', 'Daily']",2014,2024,AB
+2315,TABER,"['Daily', 'Monthly']",1907,2024,AB
+47108,TAWATINAW AGCM,"['Hourly', 'Daily']",2008,2024,AB
+47109,TEEPEE CREEK AGCM,"['Hourly', 'Daily']",2008,2024,AB
+46850,THORSBY AGCM,"['Hourly', 'Daily', 'Monthly']",2007,2024,AB
+10907,THREE HILLS,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+50919,TIDE LAKE AGCM,"['Hourly', 'Daily']",2012,2024,AB
+1990,TOFIELD NORTH,"['Daily', 'Monthly']",1974,2014,AB
+43581,TOMAHAWK AGDM,"['Hourly', 'Daily', 'Monthly']",2004,2024,AB
+51858,TOMPKINS LANDING AGCM,"['Hourly', 'Daily']",2013,2024,AB
+46914,TRAVERS AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+46851,TULLIBY LAKE AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+32459,TWO HILLS AGDM,"['Hourly', 'Daily', 'Monthly']",1999,2024,AB
+27018,UNCAS,"['Daily', 'Monthly']",1995,2024,AB
+1801,UNIVERSITY OF ALBERTA METABOLIC CENTRE,"['Daily', 'Monthly']",1986,2019,AB
+32460,VALLEYVIEW AGDM,"['Hourly', 'Daily', 'Monthly']",1998,2024,AB
+10889,VAUXHALL CDA CS,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+1977,VEGREVILLE,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+53078,VERGER,"['Hourly', 'Daily']",2014,2024,AB
+32461,VERMILION AGDM,"['Hourly', 'Daily', 'Monthly']",1995,2024,AB
+46852,VIKING AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+27715,VIKING NORTH 3,"['Daily', 'Monthly']",1998,2016,AB
+47110,VILNA AGCM,"['Hourly', 'Daily']",2008,2023,AB
+30643,VIOLET GROVE CS,"['Hourly', 'Daily', 'Monthly']",2000,2021,AB
+26888,WAINWRIGHT CFB AIRFIELD 21,"['Hourly', 'Daily', 'Monthly']",1995,2024,AB
+52358,WAINWRIGHT/WAINWRIGHT (FIELD 21),['Hourly'],2015,2015,AB
+51497,WARNER AGCM,"['Hourly', 'Daily']",2013,2024,AB
+26850,WATERTON PARK GATE,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+46853,WETASKIWIN AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+27658,WHITECOURT,"['Hourly', 'Daily', 'Monthly']",1999,2016,AB
+51444,WHITECOURT A,"['Hourly', 'Daily']",2014,2024,AB
+52982,WHITECOURT A,"['Hourly', 'Daily']",2014,2024,AB
+2632,WHITECOURT A,"['Hourly', 'Daily', 'Monthly']",1978,2014,AB
+43363,WILDCAT HILLS,"['Daily', 'Monthly']",2005,2016,AB
+10930,WILLOW CREEK 1,"['Hourly', 'Daily', 'Monthly']",1994,2024,AB
+46729,WIMBORNE AGCM,"['Hourly', 'Daily', 'Monthly']",2008,2024,AB
+31412,WRENTHAM AGDM,"['Hourly', 'Daily', 'Monthly']",2002,2024,AB
+49949,YOUNGSTOWN AGCM,"['Hourly', 'Daily']",2012,2024,AB

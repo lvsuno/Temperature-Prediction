@@ -1,0 +1,111 @@
+blocks:
+- all_upstream_blocks_executed: true
+  color: blue
+  configuration: {}
+  downstream_blocks:
+  - infrastructure_setup
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: Permissions
+  retry_config: null
+  status: executed
+  timeout: null
+  type: custom
+  upstream_blocks: []
+  uuid: permissions
+- all_upstream_blocks_executed: true
+  color: yellow
+  configuration: {}
+  downstream_blocks:
+  - teardown_deployed_resources
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: infrastructure_setup
+  retry_config: null
+  status: executed
+  timeout: null
+  type: custom
+  upstream_blocks:
+  - permissions
+  uuid: infrastructure_setup
+- all_upstream_blocks_executed: true
+  color: pink
+  configuration: {}
+  downstream_blocks:
+  - deploy
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: Teardown deployed resources
+  retry_config: null
+  status: executed
+  timeout: null
+  type: custom
+  upstream_blocks:
+  - infrastructure_setup
+  uuid: teardown_deployed_resources
+- all_upstream_blocks_executed: true
+  color: teal
+  configuration: {}
+  downstream_blocks:
+  - ci_and_cd
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: deploy
+  retry_config: null
+  status: executed
+  timeout: null
+  type: custom
+  upstream_blocks:
+  - teardown_deployed_resources
+  uuid: deploy
+- all_upstream_blocks_executed: true
+  color: purple
+  configuration: {}
+  downstream_blocks: []
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: CI and CD
+  retry_config: null
+  status: executed
+  timeout: null
+  type: custom
+  upstream_blocks:
+  - deploy
+  uuid: ci_and_cd
+cache_block_output_in_memory: false
+callbacks: []
+concurrency_config: {}
+conditionals: []
+created_at: '2024-08-09 21:49:25.953369+00:00'
+data_integration: null
+description: A pipeline to deploy Mage orchestration
+executor_config: {}
+executor_count: 1
+executor_type: null
+extensions: {}
+name: deploying_to_production
+notification_config: {}
+remote_variables_dir: null
+retry_config: {}
+run_pipeline_in_one_process: false
+settings:
+  triggers: null
+spark_config: {}
+tags:
+- deployment
+type: python
+uuid: deploying_to_production
+variables:
+  destroy: true
+variables_dir: /home/src/mage_data/temperature_prediction
+widgets: []

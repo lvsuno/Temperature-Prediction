@@ -1,0 +1,108 @@
+StationID,Name,Intervals,Year Start,Year End,Province
+3717,ARBORG,"['Daily', 'Monthly']",1951,2016,MB
+3463,BALDUR,"['Daily', 'Monthly']",1962,2024,MB
+3775,BEAVER,"['Daily', 'Monthly']",1973,2024,MB
+3466,BELMONT,"['Daily', 'Monthly']",1984,2016,MB
+53321,BERENS RIVER A,['Hourly'],2015,2024,MB
+53318,BERENS RIVER A,"['Hourly', 'Daily']",2015,2024,MB
+26964,BERENS RIVER A,['Hourly'],1995,2015,MB
+3721,BERENS RIVER CS,"['Hourly', 'Daily', 'Monthly']",1985,2024,MB
+3470,BOGGY CREEK,"['Daily', 'Monthly']",1977,2014,MB
+50821,BRANDON A,"['Hourly', 'Daily']",2012,2024,MB
+49909,BRANDON RCS,"['Hourly', 'Daily']",2012,2024,MB
+27741,CARBERRY CS,"['Hourly', 'Daily', 'Monthly']",1994,2024,MB
+3582,CARMAN,"['Daily', 'Monthly']",1964,2014,MB
+26857,CARMAN U OF M CS,"['Hourly', 'Daily', 'Monthly']",1995,2024,MB
+48969,CHURCHILL A,"['Hourly', 'Daily']",2010,2024,MB
+50148,CHURCHILL A,"['Hourly', 'Daily']",2012,2024,MB
+44244,CHURCHILL CLIMATE,"['Hourly', 'Daily', 'Monthly']",2005,2024,MB
+10745,CHURCHILL UA,"['Daily', 'Monthly']",2000,2015,MB
+3766,COWAN,"['Daily', 'Monthly']",1984,2023,MB
+3875,CROSS LAKE JENPEG,"['Hourly', 'Daily', 'Monthly']",2017,2018,MB
+54658,CROSS LAKE JENPEG 2,"['Hourly', 'Daily']",2017,2024,MB
+48128,CYPRESS RIVER RCS,"['Hourly', 'Daily']",2009,2024,MB
+48868,DAUPHIN,"['Hourly', 'Daily']",2010,2024,MB
+26866,DAUPHIN CS,"['Hourly', 'Daily', 'Monthly']",1995,2024,MB
+29886,DEERWOOD RCS,"['Hourly', 'Daily', 'Monthly']",2000,2024,MB
+3460,ELKHORN 2 EAST,"['Daily', 'Monthly']",1987,2024,MB
+48068,EMERSON AUTO,"['Hourly', 'Daily']",2009,2024,MB
+8993,FISHER BRANCH (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,MB
+10213,FLIN FLON,"['Hourly', 'Daily', 'Monthly']",1994,2024,MB
+3857,FLIN FLON,"['Daily', 'Monthly']",1927,2024,MB
+3858,FLIN FLON A,"['Hourly', 'Daily', 'Monthly']",1954,2014,MB
+52578,FLIN FLON A,['Hourly'],2014,2024,MB
+52961,FLIN FLON A,"['Hourly', 'Daily']",2014,2024,MB
+7333,GEORGE ISLAND (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,MB
+3793,GILBERT PLAINS,"['Daily', 'Monthly']",1934,2016,MB
+10217,GILLAM,"['Hourly', 'Daily', 'Monthly']",1994,2024,MB
+52758,GILLAM A,"['Hourly', 'Daily']",2014,2024,MB
+53698,GILLAM A,"['Hourly', 'Daily']",2015,2023,MB
+3878,GILLAM A,"['Hourly', 'Daily', 'Monthly']",1970,2014,MB
+45007,GIMLI CLIMATE,"['Hourly', 'Daily', 'Monthly']",2006,2024,MB
+27867,GIMLI HARBOUR CS,"['Hourly', 'Daily', 'Monthly']",1999,2024,MB
+7290,GRAND RAPIDS (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,MB
+3741,GRAND RAPIDS HYDRO,"['Daily', 'Monthly']",1966,2019,MB
+43243,GREAT FALLS CLIMATE,"['Hourly', 'Daily', 'Monthly']",2005,2024,MB
+3605,GRETNA (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,MB
+3745,HODGSON 2,"['Daily', 'Monthly']",1966,2014,MB
+52858,HODGSON 3,['Daily'],2014,2021,MB
+3609,HOLLAND,"['Daily', 'Monthly']",1984,2024,MB
+3746,INDIAN BAY,"['Daily', 'Monthly']",1915,2024,MB
+3880,ISLAND LAKE A,"['Hourly', 'Daily', 'Monthly']",1970,2015,MB
+53398,ISLAND LAKE A,"['Hourly', 'Daily']",2015,2021,MB
+54278,ISLAND LAKE A,"['Hourly', 'Daily']",2016,2024,MB
+55366,ISLAND LAKE AIRPORT,"['Hourly', 'Daily']",2023,2024,MB
+55364,JENPEG,"['Hourly', 'Daily']",2023,2024,MB
+29533,KELSEY DAM CS,"['Hourly', 'Daily', 'Monthly']",2000,2024,MB
+50897,KLEEFELD (MAFRI),"['Hourly', 'Daily']",2012,2024,MB
+44085,LYNN LAKE,"['Hourly', 'Daily', 'Monthly']",2005,2010,MB
+48588,LYNN LAKE,"['Hourly', 'Daily']",2010,2024,MB
+48728,LYNN LAKE RCS,"['Hourly', 'Daily']",2010,2024,MB
+3820,MAFEKING,"['Daily', 'Monthly']",1983,2024,MB
+3619,MARQUETTE,"['Daily', 'Monthly']",1969,2024,MB
+3853,MCCREARY,"['Hourly', 'Daily', 'Monthly']",1997,2024,MB
+10185,MELITA,"['Hourly', 'Daily', 'Monthly']",1994,2024,MB
+3623,MIAMI THIESSEN,"['Daily', 'Monthly']",1964,2016,MB
+29593,MORDEN CDA CS,"['Hourly', 'Daily', 'Monthly']",2000,2024,MB
+3749,NARCISSE,"['Daily', 'Monthly']",1982,2014,MB
+48951,NORWAY HOUSE,"['Hourly', 'Daily']",2010,2024,MB
+3641,OAKBANK,"['Daily', 'Monthly']",1885,2022,MB
+10881,OAKPOINT MARINE,"['Hourly', 'Daily', 'Monthly']",1994,2024,MB
+3649,PILOT MOUND (AUT),"['Hourly', 'Daily', 'Monthly']",1957,2024,MB
+10186,PINAWA,"['Hourly', 'Daily', 'Monthly']",1994,2024,MB
+43620,PINAWA CANWARN,"['Daily', 'Monthly']",2005,2024,MB
+3751,PINAWA WNRE,"['Daily', 'Monthly']",1963,2017,MB
+3519,PORTAGE LA PRAIRIE CDA,"['Daily', 'Monthly']",1970,2024,MB
+45987,PORTAGE ROMANCE,"['Daily', 'Monthly']",2007,2024,MB
+10884,PORTAGE SOUTHPORT,"['Hourly', 'Daily', 'Monthly']",1994,2024,MB
+3518,PORTAGE SOUTHPORT A,"['Hourly', 'Daily', 'Monthly']",1953,2024,MB
+3755,RENNIE,"['Daily', 'Monthly']",1948,2024,MB
+3457,RIVERS PETTAPIECE,"['Daily', 'Monthly']",1987,2024,MB
+27119,ROBLIN,"['Hourly', 'Daily', 'Monthly']",1996,2024,MB
+6879,ROBLIN FRIESEN 3 NORTHWEST,"['Daily', 'Monthly']",1991,2024,MB
+3458,ROSSBURN 4 NORTH,"['Daily', 'Monthly']",1986,2024,MB
+6889,SCHANZENFELD,"['Daily', 'Monthly']",1991,2024,MB
+10927,SHOAL LAKE CS,"['Hourly', 'Daily', 'Monthly']",1994,2024,MB
+10196,SPRAGUE,"['Hourly', 'Daily', 'Monthly']",1994,2024,MB
+3535,ST ALPHONSE,"['Daily', 'Monthly']",1962,2016,MB
+3664,ST CLAUDE,"['Daily', 'Monthly']",1964,2018,MB
+3667,ST LABRE,"['Daily', 'Monthly']",1981,2024,MB
+3678,STONY MOUNTAIN,"['Daily', 'Monthly']",1972,2024,MB
+10188,SWAN RIVER RCS,"['Hourly', 'Daily', 'Monthly']",1994,2024,MB
+48972,TADOULE LAKE,"['Hourly', 'Daily']",2011,2024,MB
+30475,TADOULE LAKE CS,"['Hourly', 'Daily', 'Monthly']",2000,2024,MB
+54279,THE PAS A,"['Hourly', 'Daily']",2016,2024,MB
+52438,THE PAS A,"['Hourly', 'Daily']",2014,2018,MB
+3864,THE PAS A,"['Hourly', 'Daily', 'Monthly']",1953,2014,MB
+43983,THE PAS CLIMATE,"['Hourly', 'Daily', 'Monthly']",2005,2024,MB
+3905,THOMPSON A,"['Hourly', 'Daily', 'Monthly']",1967,2014,MB
+53118,THOMPSON A,"['Hourly', 'Daily']",2014,2024,MB
+55138,THOMPSON AIRPORT,"['Hourly', 'Daily']",2020,2024,MB
+9035,VICTORIA BEACH (AUT),"['Hourly', 'Daily', 'Monthly']",1996,2024,MB
+47367,VIRDEN WATER,['Daily'],2008,2024,MB
+3562,WASAGAMING,"['Hourly', 'Daily', 'Monthly']",1994,2024,MB
+27174,WINNIPEG A CS,"['Hourly', 'Daily', 'Monthly']",2013,2024,MB
+43185,WINNIPEG CHARLESWOOD 2,"['Daily', 'Monthly']",2004,2022,MB
+51097,WINNIPEG INTL A,"['Hourly', 'Daily']",2013,2024,MB
+55463,WINNIPEG ST ANDREWS,"['Hourly', 'Daily']",2023,2024,MB
+28051,WINNIPEG THE FORKS,"['Hourly', 'Daily', 'Monthly']",1999,2024,MB

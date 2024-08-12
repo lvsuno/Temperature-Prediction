@@ -1,0 +1,100 @@
+StationID,Name,Intervals,Year Start,Year End,Province
+52962,AKLAVIK A,"['Hourly', 'Daily']",2014,2024,NT
+1623,AKLAVIK A,"['Hourly', 'Daily', 'Monthly']",1953,2014,NT
+51397,AKLAVIK A,['Hourly'],2014,2024,NT
+1633,CAPE PARRY A,"['Hourly', 'Daily', 'Monthly']",1956,2023,NT
+53298,CAPE PROVIDENCE,"['Hourly', 'Daily']",2014,2024,NT
+10867,COLVILLE LAKE,"['Hourly', 'Daily', 'Monthly']",1994,2024,NT
+52899,COLVILLE LAKE A,"['Hourly', 'Daily']",2014,2024,NT
+31187,DEADMEN VALLEY,"['Hourly', 'Daily', 'Monthly']",2001,2024,NT
+6850,DELINE A,"['Hourly', 'Daily', 'Monthly']",1991,2014,NT
+52964,DELINE A,"['Hourly', 'Daily']",2014,2024,NT
+52778,DELINE A,['Hourly'],2014,2024,NT
+27749,DELINE CS,"['Hourly', 'Daily', 'Monthly']",1999,2024,NT
+54678,DIAVIK DIAMOND MINE,['Daily'],2020,2023,NT
+27240,EKATI A,"['Hourly', 'Daily', 'Monthly']",1997,2016,NT
+52602,FORT GOOD HOPE A,['Hourly'],2015,2024,NT
+53580,FORT GOOD HOPE A,"['Hourly', 'Daily']",2015,2024,NT
+1644,FORT GOOD HOPE A,"['Hourly', 'Daily', 'Monthly']",1965,2015,NT
+27549,FORT GOOD HOPE CS,"['Hourly', 'Daily', 'Monthly']",1998,2024,NT
+10687,FORT LIARD,"['Hourly', 'Daily', 'Monthly']",1994,2024,NT
+52965,FORT LIARD A,"['Hourly', 'Daily']",2014,2024,NT
+1646,FORT LIARD A,"['Hourly', 'Daily', 'Monthly']",1973,2014,NT
+52779,FORT LIARD A,['Hourly'],2014,2024,NT
+51882,FORT MCPHERSON A,['Hourly'],2014,2024,NT
+52963,FORT MCPHERSON A,"['Hourly', 'Daily']",2014,2024,NT
+1648,FORT MCPHERSON A,"['Hourly', 'Daily', 'Monthly']",1988,2014,NT
+10902,FORT PROVIDENCE,"['Hourly', 'Daily', 'Monthly']",1994,2024,NT
+8935,FORT RELIANCE (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,NT
+1654,FORT RESOLUTION A,"['Hourly', 'Daily', 'Monthly']",1954,2014,NT
+53322,FORT RESOLUTION A,"['Hourly', 'Daily']",2014,2024,NT
+53324,FORT RESOLUTION A,['Hourly'],2014,2024,NT
+52780,FORT SIMPSON A,"['Hourly', 'Daily']",2014,2024,NT
+54159,FORT SIMPSON A,"['Hourly', 'Daily']",2016,2024,NT
+1656,FORT SIMPSON A,"['Hourly', 'Daily', 'Monthly']",1963,2014,NT
+41944,FORT SIMPSON CLIMATE,"['Hourly', 'Daily', 'Monthly']",2003,2024,NT
+54218,FORT SMITH A,"['Hourly', 'Daily']",2016,2024,NT
+1660,FORT SMITH A,"['Hourly', 'Daily', 'Monthly']",1953,2014,NT
+53119,FORT SMITH A,"['Hourly', 'Daily']",2014,2024,NT
+41884,FORT SMITH CLIMATE,"['Hourly', 'Daily', 'Monthly']",2003,2024,NT
+10926,GAMETI,"['Hourly', 'Daily', 'Monthly']",1994,2024,NT
+52966,GAMETI A,"['Hourly', 'Daily']",2014,2024,NT
+51886,GAMETI A,['Hourly'],2013,2024,NT
+27798,GAMETI AIRPORT,"['Hourly', 'Daily', 'Monthly']",2000,2013,NT
+10897,HANBURY RIVER,"['Hourly', 'Daily', 'Monthly']",1994,2024,NT
+1664,HAY RIVER A,"['Hourly', 'Daily', 'Monthly']",1953,2014,NT
+52600,HAY RIVER A,"['Hourly', 'Daily']",2014,2024,NT
+54140,HAY RIVER A,"['Hourly', 'Daily']",2016,2024,NT
+41885,HAY RIVER CLIMATE,"['Hourly', 'Daily', 'Monthly']",2003,2024,NT
+29715,HOLMAN CS,"['Hourly', 'Daily', 'Monthly']",2000,2024,NT
+10209,INNER WHALEBACKS,"['Hourly', 'Daily', 'Monthly']",1994,2024,NT
+51477,INUVIK A,"['Hourly', 'Daily']",2013,2024,NT
+41883,INUVIK CLIMATE,"['Hourly', 'Daily', 'Monthly']",2003,2024,NT
+10825,KEATS POINT,"['Hourly', 'Daily', 'Monthly']",1998,2022,NT
+27608,LINDBERG LANDING,"['Hourly', 'Daily', 'Monthly']",1998,2024,NT
+10760,LITTLE CHICAGO,"['Hourly', 'Daily', 'Monthly']",1994,2024,NT
+10823,LIVERPOOL BAY,"['Hourly', 'Daily', 'Monthly']",1994,2023,NT
+27610,LOWER CARP LAKE,"['Hourly', 'Daily', 'Monthly']",1992,2024,NT
+27797,LUTSELK'E A,"['Hourly', 'Daily', 'Monthly']",1999,2015,NT
+53508,LUTSELK'E A,"['Hourly', 'Daily']",2015,2024,NT
+53510,LUTSELK'E A,['Hourly'],2015,2024,NT
+29451,LUTSELK'E CS,"['Hourly', 'Daily', 'Monthly']",1999,2017,NT
+27324,MOULD BAY CS,"['Hourly', 'Daily', 'Monthly']",1997,2024,NT
+27118,NANGMAGVIK LAKE,"['Hourly', 'Daily', 'Monthly']",1996,2024,NT
+54758,NICHOLSON PENINSULA 2,"['Hourly', 'Daily']",2021,2023,NT
+50717,NORMAN WELLS A,"['Hourly', 'Daily']",2012,2024,NT
+43004,NORMAN WELLS CLIMATE,"['Hourly', 'Daily', 'Monthly']",2003,2024,NT
+26986,PAULATUK,"['Hourly', 'Daily', 'Monthly']",1994,2024,NT
+53420,PAULATUK A,"['Hourly', 'Daily']",2015,2024,NT
+1685,PAULATUK A,"['Hourly', 'Daily', 'Monthly']",1987,2015,NT
+53418,PAULATUK A,['Hourly'],2015,2024,NT
+10091,PELLY ISLAND,"['Hourly', 'Daily', 'Monthly']",1994,2024,NT
+26895,RABBIT KETTLE,"['Hourly', 'Daily', 'Monthly']",1995,2024,NT
+53326,SACHS HARBOUR A,"['Hourly', 'Daily']",2015,2024,NT
+53328,SACHS HARBOUR A,['Hourly'],2015,2024,NT
+1794,SACHS HARBOUR A,"['Hourly', 'Daily', 'Monthly']",1955,2015,NT
+10076,SACHS HARBOUR CLIMATE,"['Hourly', 'Daily', 'Monthly']",1994,2024,NT
+10880,SAMBAA K'E,"['Hourly', 'Daily', 'Monthly']",1994,2024,NT
+10824,STORM HILLS,"['Hourly', 'Daily', 'Monthly']",1999,2024,NT
+10598,THOMSEN RIVER,"['Hourly', 'Daily', 'Monthly']",1997,2024,NT
+27620,TRAIL VALLEY,"['Hourly', 'Daily', 'Monthly']",1998,2024,NT
+26987,TUKTOYAKTUK,"['Hourly', 'Daily', 'Monthly']",1994,2024,NT
+1700,TUKTOYAKTUK A,"['Hourly', 'Daily', 'Monthly']",1970,2015,NT
+53581,TUKTOYAKTUK A,['Hourly'],2015,2024,NT
+53582,TUKTOYAKTUK A,"['Hourly', 'Daily']",2015,2024,NT
+27626,TUKTUT NOGAIT,"['Hourly', 'Daily', 'Monthly']",1998,2024,NT
+52967,TULITA A,"['Hourly', 'Daily']",2014,2024,NT
+52798,TULITA A,['Hourly'],2014,2024,NT
+1650,TULITA A,"['Hourly', 'Daily', 'Monthly']",1987,2014,NT
+53329,ULUKHAKTOK A,"['Hourly', 'Daily']",2014,2024,NT
+53332,ULUKHAKTOK A,['Hourly'],2014,2024,NT
+1789,ULUKHAKTOK A,"['Hourly', 'Daily', 'Monthly']",1987,2014,NT
+50721,WEKWEETI A,"['Hourly', 'Daily']",2012,2024,NT
+1674,WHATI,"['Hourly', 'Daily', 'Monthly']",1994,2024,NT
+53600,WRIGLEY A,['Hourly'],2015,2023,NT
+53601,WRIGLEY A,"['Hourly', 'Daily']",2015,2024,NT
+1705,WRIGLEY A,"['Hourly', 'Daily', 'Monthly']",1957,2015,NT
+51058,YELLOWKNIFE A,"['Hourly', 'Daily']",2013,2024,NT
+55358,YELLOWKNIFE AIRPORT,"['Hourly', 'Daily']",2022,2024,NT
+45467,YELLOWKNIFE-HENDERSON,"['Daily', 'Monthly']",2006,2021,NT
+1635,YOHIN,"['Hourly', 'Daily', 'Monthly']",1973,2024,NT

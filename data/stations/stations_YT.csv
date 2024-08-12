@@ -1,0 +1,49 @@
+StationID,Name,Intervals,Year Start,Year End,Province
+53179,BEAVER CREEK A,"['Hourly', 'Daily']",2014,2024,YT
+1518,BEAVER CREEK A,"['Hourly', 'Daily', 'Monthly']",1968,2014,YT
+53178,BEAVER CREEK A,['Hourly'],2014,2024,YT
+50270,BURWASH A,['Hourly'],2012,2024,YT
+49650,BURWASH A,"['Hourly', 'Daily']",2011,2024,YT
+1525,BURWASH A,"['Hourly', 'Daily', 'Monthly']",1966,2012,YT
+51718,BURWASH AIRPORT AUTO,"['Hourly', 'Daily']",2013,2024,YT
+27950,CARMACKS CS,"['Hourly', 'Daily']",2000,2024,YT
+10194,DAWSON,"['Hourly', 'Daily', 'Monthly']",1995,2024,YT
+1535,DAWSON A,"['Hourly', 'Daily', 'Monthly']",1976,2013,YT
+51421,DAWSON CITY A,['Hourly'],2013,2024,YT
+53022,DAWSON CITY A,"['Hourly', 'Daily']",2014,2024,YT
+8964,FARO (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,YT
+53025,FARO A,"['Hourly', 'Daily']",2014,2024,YT
+1548,FARO A,"['Hourly', 'Daily', 'Monthly']",1987,2013,YT
+51887,FARO A,['Hourly'],2013,2024,YT
+1556,HAINES JUNCTION,"['Hourly', 'Daily', 'Monthly']",1960,2024,YT
+1560,HERSCHEL ISLAND,"['Hourly', 'Daily', 'Monthly']",1994,2024,YT
+1511,HOUR LAKE,"['Daily', 'Monthly']",1982,2017,YT
+26869,IVVAVIK NAT. PARK,"['Hourly', 'Daily', 'Monthly']",1995,2024,YT
+10822,KOMAKUK BEACH,"['Hourly', 'Daily']",1994,2024,YT
+27339,MACMILLAN PASS,"['Hourly', 'Daily', 'Monthly']",1998,2024,YT
+27296,MARGARET LAKE,"['Hourly', 'Daily', 'Monthly']",1997,2024,YT
+51426,MAYO A,"['Hourly', 'Daily']",2013,2024,YT
+54178,MAYO A,"['Hourly', 'Daily']",2016,2024,YT
+1573,MAYO ROAD,"['Daily', 'Monthly']",1983,2017,YT
+1574,MCQUESTEN,"['Daily', 'Monthly']",1986,2014,YT
+51437,OLD CROW A,['Hourly'],2013,2024,YT
+53023,OLD CROW A,"['Hourly', 'Daily']",2014,2024,YT
+1582,OLD CROW A,"['Hourly', 'Daily', 'Monthly']",1975,2013,YT
+26894,OLD CROW RCS,"['Hourly', 'Daily', 'Monthly']",1994,2024,YT
+1583,OTTER FALLS NCPC,"['Daily', 'Monthly']",1980,2024,YT
+1586,PELLY RANCH,"['Daily', 'Monthly']",1898,2017,YT
+54601,PELLY RANCH FORT SELKIRK,"['Hourly', 'Daily']",2020,2024,YT
+8979,ROCK RIVER,"['Hourly', 'Daily']",1994,2024,YT
+1596,SHINGLE POINT A,"['Hourly', 'Daily', 'Monthly']",1973,2023,YT
+1608,TAKHINI RIVER RANCH,"['Daily', 'Monthly']",1980,2021,YT
+8985,TESLIN (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,YT
+1610,TESLIN A,"['Hourly', 'Daily', 'Monthly']",1953,2014,YT
+53027,TESLIN A,"['Hourly', 'Daily']",2014,2024,YT
+52321,TESLIN A,['Hourly'],2014,2024,YT
+1613,TUCHITUA,"['Daily', 'Monthly']",1967,2014,YT
+32293,WATSON LAKE (AUT),"['Hourly', 'Daily']",2005,2024,YT
+54198,WATSON LAKE A,"['Hourly', 'Daily']",2016,2024,YT
+1615,WATSON LAKE A,"['Hourly', 'Daily', 'Monthly']",1953,2014,YT
+53339,WATSON LAKE A,"['Hourly', 'Daily']",2014,2024,YT
+50842,WHITEHORSE A,"['Hourly', 'Daily']",2012,2024,YT
+48168,WHITEHORSE AUTO,"['Hourly', 'Daily']",2009,2024,YT

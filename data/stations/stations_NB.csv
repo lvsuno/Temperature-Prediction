@@ -1,0 +1,41 @@
+StationID,Name,Intervals,Year Start,Year End,Province
+6109,AROOSTOOK,"['Daily', 'Monthly']",1929,2024,NB
+6113,BAS CARAQUET,"['Daily', 'Monthly']",1982,2024,NB
+6915,BAS CARAQUET,"['Hourly', 'Daily', 'Monthly']",1994,2024,NB
+54283,BATHURST A,"['Hourly', 'Daily']",2016,2024,NB
+51418,BATHURST A,"['Hourly', 'Daily']",2013,2018,NB
+6918,BOUCTOUCHE CDA CS,"['Hourly', 'Daily', 'Monthly']",2005,2021,NB
+42103,CHARLO AUTO,"['Hourly', 'Daily', 'Monthly']",2003,2024,NB
+51537,DOAKTOWN AUTO RCS,"['Hourly', 'Daily']",2013,2024,NB
+43323,EDMUNDSTON,"['Hourly', 'Daily', 'Monthly']",2004,2024,NB
+10981,FREDERICTON AQUATIC CENTRE C/S,"['Hourly', 'Daily', 'Monthly']",2005,2021,NB
+30309,FREDERICTON CDA CS,"['Hourly', 'Daily', 'Monthly']",2004,2024,NB
+48568,FREDERICTON INTL A,"['Hourly', 'Daily']",2010,2024,NB
+6919,FUNDY PARK (ALMA) CS,"['Hourly', 'Daily', 'Monthly']",2005,2024,NB
+7558,GAGETOWN A,"['Hourly', 'Daily', 'Monthly']",1976,2024,NB
+29493,GAGETOWN AWOS A,"['Hourly', 'Daily', 'Monthly']",2000,2022,NB
+55378,GARNETT SETTLEMENT,"['Hourly', 'Daily']",2022,2024,NB
+30598,GRAND MANAN SAR CS,"['Hourly', 'Daily', 'Monthly']",2000,2024,NB
+6181,JUNIPER,"['Daily', 'Monthly']",1969,2017,NB
+54538,KOUCHIBOUGUAC,"['Hourly', 'Daily']",2018,2024,NB
+26968,KOUCHIBOUGUAC CS,"['Hourly', 'Daily', 'Monthly']",2005,2018,NB
+6194,MACTAQUAC PROV PARK,"['Daily', 'Monthly']",1973,2024,NB
+45090,MECHANIC SETTLEMENT,"['Hourly', 'Daily', 'Monthly']",2006,2024,NB
+10808,MIRAMICHI RCS,"['Hourly', 'Daily', 'Monthly']",1994,2024,NB
+6205,MISCOU ISLAND (AUT),"['Hourly', 'Daily', 'Monthly']",1964,2024,NB
+54282,MONCTON / GREATER MONCTON ROMEO LEBLANC INTL A,"['Hourly', 'Daily']",2016,2024,NB
+50309,MONCTON/GREATER MONCTON ROMEO LEBLANC INTL A,"['Hourly', 'Daily']",2012,2024,NB
+49868,OAK POINT,['Daily'],2011,2024,NB
+6219,PARKINDALE,"['Daily', 'Monthly']",1983,2019,NB
+27746,POINT LEPREAU CS,"['Hourly', 'Daily', 'Monthly']",1994,2024,NB
+48768,RED PINES,"['Hourly', 'Daily']",2010,2024,NB
+50310,SAINT JOHN A,"['Hourly', 'Daily']",2012,2024,NB
+53579,ST LEONARD A,['Hourly'],2015,2017,NB
+6256,ST LEONARD A,"['Hourly', 'Daily', 'Monthly']",1985,2014,NB
+26823,ST LEONARD CS,"['Hourly', 'Daily', 'Monthly']",1995,2017,NB
+43383,ST. STEPHEN,"['Hourly', 'Daily', 'Monthly']",2006,2024,NB
+54078,SUSSEX FOUR CORNERS,"['Hourly', 'Daily']",2015,2024,NB
+6276,TURTLE CREEK,"['Daily', 'Monthly']",1964,2015,NB
+6280,UPSALQUITCH LAKE,"['Daily', 'Monthly']",1967,2015,NB
+6286,WOODSTOCK,"['Daily', 'Monthly']",1886,2020,NB
+53238,WOODSTOCK NEWBRIDGE,"['Hourly', 'Daily']",2014,2024,NB

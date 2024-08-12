@@ -1,0 +1,124 @@
+blocks:
+- all_upstream_blocks_executed: true
+  color: null
+  configuration: {}
+  downstream_blocks:
+  - prepare
+  - missing_values_for_ingest
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: ingest
+  retry_config: null
+  status: updated
+  timeout: null
+  type: data_loader
+  upstream_blocks: []
+  uuid: ingest
+- all_upstream_blocks_executed: false
+  color: null
+  configuration: {}
+  downstream_blocks:
+  - build_export
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: prepare
+  retry_config: null
+  status: updated
+  timeout: null
+  type: transformer
+  upstream_blocks:
+  - ingest
+  uuid: prepare
+- all_upstream_blocks_executed: false
+  color: null
+  configuration: {}
+  downstream_blocks: []
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: Build_export
+  retry_config: null
+  status: updated
+  timeout: null
+  type: data_exporter
+  upstream_blocks:
+  - prepare
+  uuid: build_export
+- all_upstream_blocks_executed: true
+  color: null
+  configuration:
+    file_path: data_loaders/test_download_artifact.py
+    file_source:
+      path: data_loaders/test_download_artifact.py
+  downstream_blocks: []
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: test_download_artifact
+  retry_config: null
+  status: updated
+  timeout: null
+  type: data_loader
+  upstream_blocks: []
+  uuid: test_download_artifact
+cache_block_output_in_memory: false
+callbacks: []
+concurrency_config: {}
+conditionals: []
+created_at: '2024-07-25 19:41:19.953342+00:00'
+data_integration: null
+description: A pipeline to prepare the data. It download the data from Weather canada,
+  clean it before saving the data for training. It will run on daily basis 30 minutes
+  before the training/re-training pipeline.
+executor_config: {}
+executor_count: 1
+executor_type: null
+extensions: {}
+name: data_preparation
+notification_config: {}
+remote_variables_dir: null
+retry_config: {}
+run_pipeline_in_one_process: false
+settings:
+  triggers: null
+spark_config: {}
+tags: []
+type: python
+uuid: data_preparation
+variables:
+  NEW_DATA_FOLDER: data/Training/new/
+  OLD_TRAINING_FOLDER: data/Training/old/
+  STATIONS_FOLDER: data/stations/
+  first_training: false
+  split_on_feature: Date_Time_Num
+  split_on_feature_percentage: 0.75
+  target: Temp (°C)
+variables_dir: /home/src/mage_data/temperature_prediction
+widgets:
+- all_upstream_blocks_executed: false
+  color: null
+  configuration:
+    chart_style: horizontal
+    chart_type: bar chart
+    x: columns_with_mising_values
+    y: percentage_of_missing_values
+    y_sort_order: descending
+  downstream_blocks: []
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: missing values for ingest
+  retry_config: null
+  status: failed
+  timeout: null
+  type: chart
+  upstream_blocks:
+  - ingest
+  uuid: missing_values_for_ingest

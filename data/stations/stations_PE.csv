@@ -1,0 +1,18 @@
+StationID,Name,Intervals,Year Start,Year End,Province
+49988,ALBERTON SNOW,['Daily'],2012,2019,PE
+6520,ALLISTON,"['Daily', 'Monthly']",1936,2016,PE
+50621,CHARLOTTETOWN A,"['Hourly', 'Daily']",2012,2024,PE
+7177,EAST POINT (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,PE
+6929,ELMWOOD,"['Daily', 'Monthly']",1993,2015,PE
+49770,ELMWOOD SNOW,['Daily'],2011,2015,PE
+30308,HARRINGTON CDA CS,"['Hourly', 'Daily', 'Monthly']",2004,2024,PE
+49771,KINGSBORO SNOW,['Daily'],2011,2016,PE
+49768,LONG CREEK SNOW,['Daily'],2011,2014,PE
+31029,MAPLE PLAINS,"['Hourly', 'Daily', 'Monthly']",2001,2024,PE
+49772,MORELL SNOW,['Daily'],2011,2016,PE
+6537,NEW GLASGOW,"['Daily', 'Monthly']",1971,2023,PE
+10814,NORTH CAPE,"['Hourly', 'Daily', 'Monthly']",1994,2024,PE
+41903,ST. PETERS,"['Hourly', 'Daily', 'Monthly']",2003,2024,PE
+6545,STANHOPE,"['Hourly', 'Daily', 'Monthly']",2013,2024,PE
+10800,SUMMERSIDE,"['Hourly', 'Daily', 'Monthly']",1994,2024,PE
+49773,SUMMERSIDE SNOW 2,['Daily'],2011,2015,PE

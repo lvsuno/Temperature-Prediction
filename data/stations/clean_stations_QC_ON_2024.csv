@@ -1,0 +1,384 @@
+StationID,Name,Intervals,Year Start,Year End,Province
+5310,ARTHABASKA,"['Daily', 'Monthly']",1969,2024,QC
+5575,ARUNDEL,"['Daily', 'Monthly']",1963,2024,QC
+5889,BAGOTVILLE A,"['Hourly', 'Daily', 'Monthly']",1953,2024,QC
+55359,BAGOTVILLE AIRPORT,"['Hourly', 'Daily']",2022,2024,QC
+30173,BAIE-COMEAU A,"['Hourly', 'Daily', 'Monthly']",2004,2024,QC
+5977,BARRAGE TEMISCAMINGUE,"['Hourly', 'Daily', 'Monthly']",1997,2024,QC
+26777,BEAUCEVILLE,"['Hourly', 'Daily']",1994,2024,QC
+27803,BEAUPORT,"['Hourly', 'Daily']",1999,2024,QC
+10874,BONNARD 1,"['Hourly', 'Daily']",1994,2024,QC
+5322,BONSECOURS,"['Daily', 'Monthly']",1967,2024,QC
+5327,BROMPTONVILLE,"['Daily', 'Monthly']",1957,2024,QC
+5779,CAP DES ROSIERS,"['Daily', 'Monthly']",1973,2024,QC
+27195,CAP-CHAT,"['Hourly', 'Daily']",1996,2024,QC
+9001,CAP-D'ESPOIR,"['Hourly', 'Daily']",1994,2024,QC
+8999,CAP-MADELEINE,"['Hourly', 'Daily']",1994,2024,QC
+10963,CAP-ROUGE,"['Hourly', 'Daily']",1994,2024,QC
+10869,CAP-TOURMENTE,"['Hourly', 'Daily']",1994,2024,QC
+5672,CAPE WHITTLE,"['Hourly', 'Daily', 'Monthly']",1994,2024,QC
+54558,CAUSAPSCAL AIRPORT,"['Hourly', 'Daily']",2017,2024,QC
+26797,CHAMOUCHOUANE,"['Hourly', 'Daily']",1994,2024,QC
+27443,CHAPAIS,"['Hourly', 'Daily']",2001,2024,QC
+27442,CHARLEVOIX (MRC),"['Hourly', 'Daily']",1997,2024,QC
+5584,CHARTERIS,"['Daily', 'Monthly']",1980,2024,QC
+5585,CHELSEA,"['Daily', 'Monthly']",1927,2024,QC
+5586,CHENEVILLE,"['Daily', 'Monthly']",1964,2024,QC
+8456,CHEVERY,"['Hourly', 'Daily']",1994,2024,QC
+53019,CHIBOUGAMAU CHAPAIS A,"['Hourly', 'Daily']",2014,2024,QC
+54599,CHIBOUGAMAU-CHAPAIS,"['Hourly', 'Daily']",2017,2024,QC
+55459,CHICOUTIMI ST-HONORE A,"['Hourly', 'Daily']",2023,2024,QC
+5903,CHUTE-DES-PASSES,"['Hourly', 'Daily', 'Monthly']",1994,2024,QC
+5339,COATICOOK,"['Daily', 'Monthly']",1949,2024,QC
+5217,COTEAU DU LAC,"['Daily', 'Monthly']",1966,2024,QC
+5345,DANVILLE,"['Daily', 'Monthly']",1871,2024,QC
+5348,DRUMMONDVILLE,"['Daily', 'Monthly']",1913,2024,QC
+5358,FARNHAM,"['Daily', 'Monthly']",1917,2024,QC
+5361,FLEURY,"['Daily', 'Monthly']",1967,2024,QC
+32413,FORET MONTMORENCY RCS,"['Hourly', 'Daily']",2003,2024,QC
+5362,FORTIERVILLE,"['Daily', 'Monthly']",1973,2024,QC
+10815,FRELIGHSBURG,"['Hourly', 'Daily']",1994,2024,QC
+54918,GASPE AIRPORT,"['Hourly', 'Daily']",2019,2024,QC
+42013,GRANBY,"['Hourly', 'Daily']",2003,2024,QC
+54698,GRANDES-BERGERONNES,"['Hourly', 'Daily']",2018,2024,QC
+48970,HAVRE ST. PIERRE,"['Hourly', 'Daily']",2010,2024,QC
+5373,HEMMINGFORD FOUR WINDS,"['Daily', 'Monthly']",1960,2024,QC
+10247,ILE AUX GRUES,"['Hourly', 'Daily']",1994,2024,QC
+10937,ILE AUX PERROQUETS,"['Hourly', 'Daily']",1994,2024,QC
+10938,ILE BICQUETTE,"['Hourly', 'Daily']",1994,2024,QC
+8989,ILE D'ORLEANS,"['Hourly', 'Daily']",1994,2024,QC
+8674,ILE ROUGE,"['Hourly', 'Daily']",1994,2024,QC
+10763,ILES DE LA MADELEINE,"['Hourly', 'Daily']",1993,2024,QC
+30166,INUKJUAK,"['Hourly', 'Daily']",2008,2024,QC
+48974,INUKJUAK A,"['Hourly', 'Daily']",2011,2024,QC
+5911,JONQUIERE,"['Hourly', 'Daily', 'Monthly']",1994,2024,QC
+52179,KUUJJUAQ A,"['Hourly', 'Daily']",2014,2024,QC
+53978,KUUJJUARAPIK,"['Hourly', 'Daily']",2015,2024,QC
+52201,KUUJJUARAPIK A,"['Hourly', 'Daily']",2014,2024,QC
+10843,L'ACADIE,"['Hourly', 'Daily']",1994,2024,QC
+5237,L'ASSOMPTION,"['Hourly', 'Daily', 'Monthly']",1994,2024,QC
+10871,L'ETAPE,"['Hourly', 'Daily', 'Monthly']",1994,2024,QC
+27315,LA BAIE,"['Hourly', 'Daily']",1997,2024,QC
+49648,LA GRANDE 4 A,"['Hourly', 'Daily']",2011,2024,QC
+44204,LA GRANDE IV,"['Hourly', 'Daily']",2005,2024,QC
+50822,LA GRANDE RIVIERE A,"['Hourly', 'Daily']",2012,2024,QC
+5599,LA MACAZA,"['Daily', 'Monthly']",1976,2024,QC
+26893,LA POCATIERE,"['Hourly', 'Daily']",1996,2024,QC
+10875,LA TUQUE,"['Hourly', 'Daily']",1994,2024,QC
+5203,LAC AUX SABLES,"['Daily', 'Monthly']",1964,2024,QC
+26778,LAC BENOIT,"['Hourly', 'Daily']",1994,2024,QC
+6005,LAC BERRY,"['Daily', 'Monthly']",1973,2024,QC
+8404,LAC EON,"['Hourly', 'Daily']",1994,2024,QC
+5803,LAC HUMQUI,"['Daily', 'Monthly']",1972,2024,QC
+5385,LAC MEGANTIC 2,"['Daily', 'Monthly']",1963,2024,QC
+10801,LAC MEMPHREMAGOG,"['Hourly', 'Daily']",1994,2024,QC
+10975,LAC SAINT-PIERRE,"['Hourly', 'Daily']",1994,2024,QC
+5594,LACHUTE,"['Daily', 'Monthly']",1963,2024,QC
+5389,LAPRAIRIE,"['Daily', 'Monthly']",1963,2024,QC
+30722,LATERRIERE,"['Hourly', 'Daily']",2002,2024,QC
+5392,LAURIERVILLE,"['Daily', 'Monthly']",1963,2024,QC
+5393,LAUZON,"['Daily', 'Monthly']",1978,2024,QC
+29714,LEMIEUX,"['Hourly', 'Daily']",1999,2024,QC
+5397,LENNOXVILLE,"['Hourly', 'Daily', 'Monthly']",1994,2024,QC
+5701,LES BUISSONS,"['Daily', 'Monthly']",1973,2024,QC
+5239,LES CEDRES,"['Daily', 'Monthly']",1913,2024,QC
+5398,LINGWICK,"['Daily', 'Monthly']",1952,2024,QC
+10977,LONGUE-POINTE-DE-MINGAN,"['Hourly', 'Daily']",1994,2024,QC
+5243,LOUISEVILLE,"['Daily', 'Monthly']",1967,2024,QC
+5604,LUSKVILLE,"['Daily', 'Monthly']",1980,2024,QC
+5401,MAGOG,"['Daily', 'Monthly']",1948,2024,QC
+5606,MANIWAKI AIRPORT,"['Hourly', 'Daily', 'Monthly']",1994,2024,QC
+26798,MANOUANE EST,"['Hourly', 'Daily']",1994,2024,QC
+5406,MARIEVILLE,"['Daily', 'Monthly']",1960,2024,QC
+10791,MATAGAMI,"['Hourly', 'Daily']",1994,2024,QC
+49491,MATAGAMI A,"['Hourly', 'Daily']",2011,2024,QC
+10761,MCTAVISH,"['Hourly', 'Daily']",1994,2024,QC
+10797,MISTOOK,"['Hourly', 'Daily']",1994,2024,QC
+5988,MONT BRUN,"['Daily', 'Monthly']",1980,2024,QC
+50841,MONT JOLI A,"['Hourly', 'Daily']",2013,2024,QC
+43184,MONT STE-ANNE,['Daily'],2005,2024,QC
+54118,MONT-JOLI,"['Hourly', 'Daily']",2015,2024,QC
+51157,MONTREAL INTL A,"['Hourly', 'Daily']",2013,2024,QC
+49608,MONTREAL MIRABEL INTL A,"['Hourly', 'Daily']",2012,2024,QC
+30165,MONTREAL/PIERRE ELLIOTT TRUDEAU INTL,"['Hourly', 'Daily']",2008,2024,QC
+48374,MONTREAL/ST-HUBERT,"['Hourly', 'Daily']",2009,2024,QC
+54938,NANTES,"['Hourly', 'Daily']",2019,2024,QC
+48971,NATASHQUAN A,"['Hourly', 'Daily']",2010,2024,QC
+30168,NATASHQUAN AIRPORT,"['Hourly', 'Daily']",2008,2024,QC
+10898,NEW CARLISLE 1,"['Hourly', 'Daily']",1994,2024,QC
+54559,NEW RICHMOND EAST,"['Hourly', 'Daily']",2017,2024,QC
+10732,NICOLET,"['Hourly', 'Daily']",1994,2024,QC
+10872,NORMANDIN,"['Hourly', 'Daily']",1994,2024,QC
+5619,NOTRE DAME DE LA PAIX,"['Daily', 'Monthly']",1979,2024,QC
+5248,OKA,"['Daily', 'Monthly']",1937,2024,QC
+27294,ONATCHIWAY,"['Hourly', 'Daily']",1997,2024,QC
+5429,ORMSTOWN,"['Daily', 'Monthly']",1962,2024,QC
+48228,PARC NATIONAL DES PINGUALUIT,"['Hourly', 'Daily']",2009,2024,QC
+5966,PARENT,"['Hourly', 'Daily', 'Monthly']",1953,2024,QC
+5432,PIERREVILLE,"['Daily', 'Monthly']",1980,2024,QC
+10964,POINTE CLAVEAU,"['Hourly', 'Daily']",1994,2024,QC
+10966,POINTE DE L'ISLET,"['Hourly', 'Daily']",1994,2024,QC
+27326,POINTE NOIRE CS,"['Hourly', 'Daily']",1997,2024,QC
+27194,POINTE-AU-PERE (INRS),"['Hourly', 'Daily']",1996,2024,QC
+9029,POINTE-DES-MONTS,"['Hourly', 'Daily']",1994,2024,QC
+8536,PORT-MENIER,"['Hourly', 'Daily']",1994,2024,QC
+52038,PUVIRNITUQ A,"['Hourly', 'Daily']",2014,2024,QC
+51457,QUEBEC INTL A,"['Hourly', 'Daily']",2013,2024,QC
+26892,QUEBEC/JEAN LESAGE INTL,"['Hourly', 'Daily', 'Monthly']",2005,2024,QC
+5440,RICHMOND,"['Daily', 'Monthly']",1871,2024,QC
+5252,RIGAUD,"['Daily', 'Monthly']",1963,2024,QC
+5836,RIMOUSKI,"['Daily', 'Monthly']",1952,2024,QC
+5650,RIVIERE AU TONNERRE,"['Daily', 'Monthly']",1965,2024,QC
+44143,RIVIERE AUX FEUILLES,"['Hourly', 'Daily']",2005,2024,QC
+5441,RIVIERE DES PRAIRIES,"['Daily', 'Monthly']",1973,2024,QC
+5254,RIVIERE VERTE OUEST,"['Daily', 'Monthly']",1966,2024,QC
+8539,RIVIERE-DU-LOUP,"['Hourly', 'Daily']",1994,2024,QC
+10849,ROUYN,"['Hourly', 'Daily']",1994,2024,QC
+50090,ROUYN-NORANDA A,"['Hourly', 'Daily']",2012,2024,QC
+5861,SAINT MICHEL,"['Daily', 'Monthly']",1978,2024,QC
+55158,SAINT-CAMILLE-DE-LELLIS,"['Hourly', 'Daily']",2020,2024,QC
+47587,SAINT-GERMAIN-DE-GRANTHAM,"['Hourly', 'Daily']",2008,2024,QC
+48188,SAINT-MICHEL-DES-SAINTS,"['Hourly', 'Daily']",2009,2024,QC
+52378,SALLUIT,"['Hourly', 'Daily']",2014,2024,QC
+5526,SAWYERVILLE NORD,"['Daily', 'Monthly']",1961,2024,QC
+49649,SCHEFFERVILLE A,"['Hourly', 'Daily']",2012,2024,QC
+54878,SCHEFFERVILLE COTE-NORD,"['Hourly', 'Daily']",2019,2024,QC
+5527,SCOTT,"['Daily', 'Monthly']",1950,2024,QC
+42683,SEPT-ILES,"['Hourly', 'Daily', 'Monthly']",2002,2024,QC
+52199,SEPT-ILES A,"['Hourly', 'Daily']",2014,2024,QC
+27646,SHAWINIGAN,"['Hourly', 'Daily']",1999,2024,QC
+48371,SHERBROOKE,"['Hourly', 'Daily']",2009,2024,QC
+5532,SOREL,"['Daily', 'Monthly']",1914,2024,QC
+5255,ST ALBAN,"['Daily', 'Monthly']",1949,2024,QC
+5256,ST ALEXIS DES MONTS,"['Daily', 'Monthly']",1963,2024,QC
+5936,ST AMBROISE,"['Daily', 'Monthly']",1954,2024,QC
+5448,ST ANICET,"['Daily', 'Monthly']",1960,2024,QC
+5452,ST BERNARD DE LACOLLE,"['Daily', 'Monthly']",1973,2024,QC
+5846,ST CAMILLE,"['Daily', 'Monthly']",1963,2024,QC
+5300,ST CAMILLE WOLFE,"['Daily', 'Monthly']",1975,2024,QC
+5262,ST CHARLES DE MANDEVILLE,"['Daily', 'Monthly']",1921,2024,QC
+5457,ST COME DE LINIERE,"['Daily', 'Monthly']",1965,2024,QC
+5462,ST EPHREM,"['Daily', 'Monthly']",1929,2024,QC
+5485,ST GEORGES,"['Daily', 'Monthly']",1963,2024,QC
+5630,ST HIPPOLYTE,"['Daily', 'Monthly']",1961,2024,QC
+5492,ST HYACINTHE 2,"['Daily', 'Monthly']",1963,2024,QC
+55461,ST JEAN,"['Hourly', 'Daily']",2023,2024,QC
+5857,ST JEAN DE CHERBOURG,"['Daily', 'Monthly']",1963,2024,QC
+5631,ST JEROME,"['Daily', 'Monthly']",1932,2024,QC
+5500,ST LUDGER,"['Daily', 'Monthly']",1964,2024,QC
+5502,ST MALO D AUCKLAND,"['Daily', 'Monthly']",1949,2024,QC
+5969,ST MICHEL DES SAINTS,"['Daily', 'Monthly']",1966,2024,QC
+5281,ST NARCISSE,"['Daily', 'Monthly']",1973,2024,QC
+5509,ST PIERRE DE BROUGHTON,"['Daily', 'Monthly']",1965,2024,QC
+5940,ST PRIME,"['Daily', 'Monthly']",1980,2024,QC
+5510,ST PROSPER,"['Daily', 'Monthly']",1963,2024,QC
+5516,ST SEVERIN,"['Daily', 'Monthly']",1964,2024,QC
+10982,ST-ANICET 1,"['Hourly', 'Daily']",1994,2024,QC
+10868,ST-JOVITE,"['Hourly', 'Daily']",1994,2024,QC
+5257,STE ANNE DE LA PERADE,"['Daily', 'Monthly']",1949,2024,QC
+5627,STE ANNE DU LAC,"['Daily', 'Monthly']",1963,2024,QC
+5259,STE BEATRIX,"['Daily', 'Monthly']",1974,2024,QC
+5266,STE CHRISTINE,"['Daily', 'Monthly']",1950,2024,QC
+5858,STE LUCIE,"['Daily', 'Monthly']",1963,2024,QC
+5503,STE MARTINE,"['Daily', 'Monthly']",1963,2024,QC
+10873,STE-ANNE-DE-BELLEVUE 1,"['Hourly', 'Daily']",1994,2024,QC
+10762,STE-CLOTILDE,"['Hourly', 'Daily']",1994,2024,QC
+27377,STE-FOY (U. LAVAL),"['Hourly', 'Daily']",1996,2024,QC
+5542,THETFORD MINES,"['Daily', 'Monthly']",1960,2024,QC
+45309,THETFORD MINES RCS,"['Hourly', 'Daily']",2006,2024,QC
+51698,TROIS RIVIERES A,"['Hourly', 'Daily']",2013,2024,QC
+52138,TROIS RIVIERES A-2,['Daily'],2014,2024,QC
+30172,VAL-D'OR,"['Hourly', 'Daily']",2008,2024,QC
+5293,VALCARTIER A,"['Hourly', 'Daily', 'Monthly']",1978,2024,QC
+5564,VERCHERES,"['Daily', 'Monthly']",1963,2024,QC
+5642,WRIGHT,"['Daily', 'Monthly']",1967,2024,QC
+42967,ALGONQUIN PARK EAST GATE,"['Hourly', 'Daily', 'Monthly']",2004,2024,ON
+4607,AMHERSTBURG,"['Daily', 'Monthly']",1988,2024,ON
+6901,APPLETON,"['Daily', 'Monthly']",1992,2024,ON
+3987,ARMSTRONG (AUT),"['Hourly', 'Daily', 'Monthly']",1953,2024,ON
+52900,ARMSTRONG A,"['Hourly', 'Daily']",2015,2024,ON
+10220,ATIKOKAN (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,ON
+52918,ATTAWAPISKAT A,"['Hourly', 'Daily']",2015,2024,ON
+43540,BALDWIN,"['Daily', 'Monthly']",2004,2024,ON
+26799,BANCROFT AUTO,"['Hourly', 'Daily', 'Monthly']",1995,2024,ON
+50048,BARRIE LANDFILL,['Daily'],2011,2024,ON
+42183,BARRIE-ORO,"['Hourly', 'Daily', 'Monthly']",2003,2024,ON
+3932,BARWICK,"['Daily', 'Monthly']",1978,2024,ON
+44183,BEATRICE CLIMATE,"['Hourly', 'Daily', 'Monthly']",2005,2024,ON
+4859,BELLEVILLE,"['Daily', 'Monthly']",1866,2024,ON
+55238,BELLEVILLE QUINTE,"['Hourly', 'Daily']",2021,2024,ON
+50857,BIG TROUT LAKE,"['Hourly', 'Daily']",2012,2024,ON
+49488,BIG TROUT LAKE A,"['Hourly', 'Daily']",2011,2024,ON
+4140,BONNER LAKE,"['Daily', 'Monthly']",1990,2024,ON
+53378,BRANTFORD AIRPORT,"['Hourly', 'Daily']",2014,2024,ON
+47567,BROCKVILLE CLIMATE,"['Hourly', 'Daily']",2008,2024,ON
+7868,BURLINGTON PIERS (AUT),"['Hourly', 'Daily']",1994,2024,ON
+27674,CAMERON FALLS (AUT),"['Hourly', 'Daily', 'Monthly']",2000,2024,ON
+7582,CARIBOU ISLAND (AUT),"['Hourly', 'Daily']",1994,2024,ON
+55360,CEDAR SPRINGS,"['Hourly', 'Daily']",2022,2024,ON
+4898,CENTREVILLE,"['Daily', 'Monthly']",1985,2024,ON
+4243,CHALK RIVER AECL,"['Daily', 'Monthly']",1960,2024,ON
+55258,CHAPLEAU AIRPORT,"['Hourly', 'Daily']",2022,2024,ON
+52118,CHATHAM KENT,"['Hourly', 'Daily']",2014,2024,ON
+7870,COBOURG (AUT),"['Hourly', 'Daily', 'Monthly']",1993,2024,ON
+4905,COBOURG STP,"['Daily', 'Monthly']",1970,2024,ON
+4432,COLDWATER WARMINSTER,"['Daily', 'Monthly']",1971,2024,ON
+4255,CORNWALL,"['Daily', 'Monthly']",1950,2024,ON
+27528,DELHI CS,"['Hourly', 'Daily', 'Monthly']",1999,2024,ON
+4268,DRUMMOND CENTRE,"['Daily', 'Monthly']",1984,2024,ON
+48869,DRYDEN REGIONAL,"['Hourly', 'Daily']",2010,2024,ON
+27865,EAR FALLS (AUT),"['Hourly', 'Daily', 'Monthly']",2000,2024,ON
+49489,EARLTON A,"['Hourly', 'Daily']",2011,2024,ON
+47687,EARLTON CLIMATE,"['Hourly', 'Daily']",2008,2024,ON
+27604,EGBERT CS,"['Hourly', 'Daily', 'Monthly']",2000,2024,ON
+41983,ELORA RCS,"['Hourly', 'Daily', 'Monthly']",2003,2024,ON
+4761,FERGUS MOE,"['Daily', 'Monthly']",1962,2024,ON
+4760,FERGUS SHAND DAM,"['Daily', 'Monthly']",1939,2024,ON
+46507,FORT FRANCES RCS,"['Hourly', 'Daily']",2007,2024,ON
+51219,FORT SEVERN A,"['Hourly', 'Daily']",2013,2024,ON
+4923,GEORGETOWN WWTP,"['Daily', 'Monthly']",1962,2024,ON
+54240,GERALDTON A,"['Hourly', 'Daily']",2016,2024,ON
+54858,GERALDTON AIRPORT,"['Hourly', 'Daily']",2018,2024,ON
+7747,GODERICH,"['Hourly', 'Daily', 'Monthly']",1986,2024,ON
+48788,GORE BAY CLIMATE,"['Hourly', 'Daily']",2010,2024,ON
+48372,GORE BAY-MANITOULIN,"['Hourly', 'Daily']",2009,2024,ON
+10903,GRENADIER ISLAND,"['Hourly', 'Daily', 'Monthly']",1994,2024,ON
+44123,GRIMSBY MOUNTAIN,"['Daily', 'Monthly']",2005,2024,ON
+55299,GUELPH TURFGRASS INSTITUTE,"['Hourly', 'Daily']",2021,2024,ON
+49908,HAMILTON A,"['Hourly', 'Daily']",2011,2024,ON
+27529,HAMILTON RBG CS,"['Hourly', 'Daily', 'Monthly']",2000,2024,ON
+30266,HARROW CDA AUTO,"['Hourly', 'Daily', 'Monthly']",2000,2024,ON
+4287,HARTINGTON IHD,"['Daily', 'Monthly']",1967,2024,ON
+54378,HAZELWOOD,['Daily'],2016,2024,ON
+30435,KAPUSKASING CDA ON,"['Hourly', 'Daily', 'Monthly']",2000,2024,ON
+27534,KEMPTVILLE CS,"['Hourly', 'Daily', 'Monthly']",2001,2024,ON
+51137,KENORA A,"['Hourly', 'Daily']",2013,2024,ON
+47307,KENORA RCS,"['Hourly', 'Daily']",2008,2024,ON
+54958,KING CITY NORTH,"['Hourly', 'Daily']",2019,2024,ON
+47267,KINGSTON CLIMATE,"['Hourly', 'Daily']",2008,2024,ON
+4647,KINGSVILLE MOE,"['Daily', 'Monthly']",1960,2024,ON
+55367,KIRKLAND LAKE,"['Hourly', 'Daily']",2022,2024,ON
+48569,KITCHENER/WATERLOO,"['Hourly', 'Daily']",2010,2024,ON
+10911,LAGOON CITY,"['Hourly', 'Daily', 'Monthly']",1994,2024,ON
+51958,LAKE SUPERIOR PROVINCIAL PARK,"['Hourly', 'Daily']",2013,2024,ON
+10244,LANSDOWNE HOUSE (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,ON
+51237,LANSDOWNE HOUSE A,"['Hourly', 'Daily']",2013,2024,ON
+43104,LITTLE FLATLAND ISLAND (AUT),"['Hourly', 'Daily']",2005,2024,ON
+50093,LONDON A,"['Hourly', 'Daily']",2012,2024,ON
+10999,LONDON CS,"['Hourly', 'Daily', 'Monthly']",1994,2024,ON
+9026,LONG POINT (AUT),"['Hourly', 'Daily']",1994,2024,ON
+43046,MARKDALE,"['Daily', 'Monthly']",2004,2024,ON
+4121,MASSEY,"['Daily', 'Monthly']",1983,2024,ON
+53618,MONETVILLE 2,['Daily'],2015,2024,ON
+51938,MONO CENTRE,"['Hourly', 'Daily']",2013,2024,ON
+41738,MOOSE CREEK WELLS,"['Hourly', 'Daily']",2003,2024,ON
+48950,MOOSONEE,"['Hourly', 'Daily']",2010,2024,ON
+55379,MOOSONEE RCS,"['Hourly', 'Daily']",2022,2024,ON
+7844,MOUNT FOREST (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,ON
+48368,MUSKOKA,"['Hourly', 'Daily']",2009,2024,ON
+50722,MUSKRAT DAM,"['Hourly', 'Daily']",2012,2024,ON
+7633,NAGAGAMI (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,ON
+4656,NEW GLASGOW,"['Daily', 'Monthly']",1957,2024,ON
+54604,NORTH BAY AIRPORT,"['Hourly', 'Daily']",2017,2024,ON
+26912,NORTHERN ONTARIO EER,"['Hourly', 'Daily']",2001,2024,ON
+55361,OGOKI POST,"['Hourly', 'Daily']",2022,2024,ON
+52898,OGOKI POST A,"['Hourly', 'Daily']",2014,2024,ON
+26773,OMPAH-SEITZ,"['Daily', 'Monthly']",1994,2024,ON
+6904,ORILLIA BRAIN,"['Daily', 'Monthly']",1992,2024,ON
+48649,OSHAWA,"['Hourly', 'Daily']",2010,2024,ON
+4333,OTTAWA CDA,"['Daily', 'Monthly']",1889,2024,ON
+30578,OTTAWA CDA RCS,"['Hourly', 'Daily', 'Monthly']",2000,2024,ON
+49568,OTTAWA INTL A,"['Hourly', 'Daily']",2011,2024,ON
+32128,PARRY SOUND CCG,"['Hourly', 'Daily', 'Monthly']",2002,2024,ON
+10197,PEAWANUCK (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,ON
+52878,PEAWANUCK A,"['Hourly', 'Daily']",2014,2024,ON
+49068,PEMBROKE CLIMATE,"['Hourly', 'Daily']",2010,2024,ON
+4352,PETAWAWA A,"['Hourly', 'Daily', 'Monthly']",1969,2024,ON
+6900,PETAWAWA HOFFMAN,"['Daily', 'Monthly']",1993,2024,ON
+48952,PETERBOROUGH A,"['Hourly', 'Daily']",2010,2024,ON
+55365,PETERBOROUGH TRENTU FARM,"['Hourly', 'Daily']",2022,2024,ON
+3920,PICKLE LAKE (AUT),"['Hourly', 'Daily', 'Monthly']",1955,2024,ON
+52418,PICKLE LAKE A,"['Hourly', 'Daily']",2013,2024,ON
+27533,POINT PELEE CS,"['Hourly', 'Daily', 'Monthly']",2001,2024,ON
+7925,POINT PETRE (AUT),"['Hourly', 'Daily']",1993,2024,ON
+4671,PORT COLBORNE,"['Daily', 'Monthly']",1964,2024,ON
+9005,PORT COLBORNE (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,ON
+7790,PORT WELLER (AUT),"['Hourly', 'Daily', 'Monthly']",1993,2024,ON
+49848,PUKASKWA (AUT),"['Hourly', 'Daily']",2012,2024,ON
+3966,RAWSON LAKE,"['Daily', 'Monthly']",1969,2024,ON
+30455,RAWSON LAKE (AUT),"['Hourly', 'Daily']",2005,2024,ON
+32473,RIDGETOWN RCS,"['Hourly', 'Daily', 'Monthly']",2003,2024,ON
+4816,ROSEVILLE,"['Daily', 'Monthly']",1972,2024,ON
+10899,ROYAL ISLAND (AUT),"['Hourly', 'Daily']",1994,2024,ON
+50723,SANDY LAKE A,"['Hourly', 'Daily']",2012,2024,ON
+48373,SARNIA,"['Hourly', 'Daily']",2009,2024,ON
+44323,SARNIA CLIMATE,"['Hourly', 'Daily']",2005,2024,ON
+50092,SAULT STE MARIE A,"['Hourly', 'Daily']",2012,2024,ON
+54838,SAULT STE. MARIE AIRPORT,"['Hourly', 'Daily']",2019,2024,ON
+4509,SHANTY BAY,"['Daily', 'Monthly']",1973,2024,ON
+51138,SIOUX LOOKOUT A,"['Hourly', 'Daily']",2013,2024,ON
+54605,SIOUX LOOKOUT AIRPORT,"['Hourly', 'Daily']",2018,2024,ON
+31010,SONYA SUNDANCE MEADOWS,"['Daily', 'Monthly']",2001,2024,ON
+29846,SOUTHERN ONTARIO EMERGENCY PORTABLE WEATHER STATION,"['Hourly', 'Daily']",2007,2024,ON
+53000,ST CATHARINES A,"['Hourly', 'Daily']",2014,2024,ON
+4689,ST THOMAS WPCP,"['Daily', 'Monthly']",1980,2024,ON
+4377,ST. ALBERT,"['Daily', 'Monthly']",1986,2024,ON
+50131,ST. CATHARINES / NIAGARA DISTRICT A,['Hourly'],2012,2024,ON
+27647,STRATHROY-MULLIFARRY,"['Daily', 'Monthly']",1997,2024,ON
+50840,SUDBURY A,"['Hourly', 'Daily']",2013,2024,ON
+49508,SUDBURY CLIMATE,"['Hourly', 'Daily']",2011,2024,ON
+44205,TAPLEY,"['Daily', 'Monthly']",2005,2024,ON
+54606,TERRACE BAY AIRPORT,"['Hourly', 'Daily']",2017,2024,ON
+49389,THUNDER BAY,"['Hourly', 'Daily']",2012,2024,ON
+50132,THUNDER BAY A,"['Hourly', 'Daily']",2012,2024,ON
+30682,THUNDER BAY CS,"['Hourly', 'Daily', 'Monthly']",2000,2024,ON
+4699,TILLSONBURG WWTP,"['Daily', 'Monthly']",1962,2024,ON
+50460,TIMMINS A,"['Hourly', 'Daily']",2012,2024,ON
+47547,TIMMINS CLIMATE,"['Hourly', 'Daily']",2008,2024,ON
+45607,TOBERMORY RCS,"['Hourly', 'Daily']",2007,2024,ON
+31688,TORONTO CITY,"['Hourly', 'Daily', 'Monthly']",2002,2024,ON
+48549,TORONTO CITY CENTRE,"['Hourly', 'Daily']",2009,2024,ON
+51459,TORONTO INTL A,"['Hourly', 'Daily']",2013,2024,ON
+26953,TORONTO NORTH YORK,"['Daily', 'Monthly']",1994,2024,ON
+5126,TRENTON A,"['Hourly', 'Daily', 'Monthly']",1953,2024,ON
+4525,UDORA,"['Daily', 'Monthly']",1989,2024,ON
+4057,UPSALA (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,ON
+50637,UXBRIDGE WEST,"['Hourly', 'Daily']",2012,2024,ON
+31367,VINELAND STATION RCS,"['Hourly', 'Daily', 'Monthly']",2002,2024,ON
+55362,WEAGAMOW LAKE,"['Hourly', 'Daily']",2023,2024,ON
+4061,WELCOME ISLAND (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,ON
+44283,WELLAND-PELHAM,"['Hourly', 'Daily', 'Monthly']",2005,2024,ON
+7733,WESTERN ISLAND (AUT),"['Hourly', 'Daily']",1994,2024,ON
+54738,WINDSOR A,"['Hourly', 'Daily']",2018,2024,ON
+4715,WINDSOR RIVERSIDE,"['Daily', 'Monthly']",1866,2024,ON
+4835,WOODSTOCK,"['Daily', 'Monthly']",1870,2024,ON
+54068,AKULIVIK A,"['Hourly', 'Daily']",2018,2024,QC
+54058,AUPALUK A,"['Hourly', 'Daily']",2018,2024,QC
+48968,BAIE-COMEAU,"['Hourly', 'Daily']",2010,2024,QC
+53603,CHAPLEAU A,"['Hourly', 'Daily']",2015,2024,ON
+27325,DESCHAMBAULT,"['Hourly', 'Daily']",1997,2024,QC
+53338,EASTMAIN RIVER A,"['Hourly', 'Daily']",2014,2024,QC
+54299,GASPE A,"['Hourly', 'Daily']",2016,2024,QC
+53002,ILES DE LA MADELEINE A,"['Hourly', 'Daily']",2014,2024,QC
+54066,IVUJIVIK A,"['Hourly', 'Daily']",2018,2024,QC
+54074,KANGIQSUALUJJUAQ A,"['Hourly', 'Daily']",2018,2024,QC
+54062,KANGIQSUJUAQ A,"['Hourly', 'Daily']",2018,2024,QC
+54072,KANGIRSUK A,"['Hourly', 'Daily']",2018,2024,QC
+54260,KAPUSKASING A,"['Hourly', 'Daily']",2016,2024,ON
+52985,KINGSTON A,"['Hourly', 'Daily']",2014,2024,ON
+54298,LOURDES DE BLANC SABLON A,"['Hourly', 'Daily']",2016,2024,QC
+53138,MARATHON A,"['Hourly', 'Daily']",2014,2024,ON
+52318,NORTH BAY A,"['Hourly', 'Daily']",2014,2024,ON
+53001,OTTAWA GATINEAU A,"['Hourly', 'Daily']",2014,2024,QC
+54060,QUAQTAQ A,"['Hourly', 'Daily']",2018,2024,QC
+52419,RED LAKE A,"['Hourly', 'Daily']",2013,2024,ON
+54300,ROBERVAL A,"['Hourly', 'Daily']",2016,2024,QC
+54064,SALLUIT A,"['Hourly', 'Daily']",2018,2024,QC
+54019,TASIUJAQ A,"['Hourly', 'Daily']",2018,2024,QC
+10764,TROIS-RIVIERES,"['Hourly', 'Daily', 'Monthly']",1994,2024,QC
+54070,UMIUJAQ A,"['Hourly', 'Daily']",2018,2024,QC
+50720,VAL D'OR A,['Hourly'],2012,2024,QC
+52081,WASKAGANISH A,['Hourly'],2014,2024,QC
+52818,WAWA A,"['Hourly', 'Daily']",2014,2024,ON
+53158,WEMINDJI A,['Hourly'],2014,2024,QC
+54259,WIARTON A,"['Hourly', 'Daily']",2016,2024,ON

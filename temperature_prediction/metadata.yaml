@@ -1,0 +1,26 @@
+project_uuid: e31945b5e97346d58f79905009e1241a
+features:
+  display_local_timezone: true
+  command_center: true
+help_improve_mage:
+pipelines:
+
+variables_retention_period: 1d
+
+logging_config:
+  level: DEBUG
+
+# https://docs.mage.ai/integrations/observability/alerting-email
+# https://support.google.com/mail/answer/185833?hl=en
+notification_config:
+  alert_on:
+  - trigger_failure
+  - trigger_passed_sla
+    #- trigger_success
+  email_config:
+    smtp_host: smtp.gmail.com
+    smtp_user: "{{ env_var('SMTP_EMAIL') }}"
+    smtp_password: "{{ env_var('SMTP_PASSWORD') }}"
+    smtp_mail_from: "{{ env_var('SMTP_EMAIL') }}"
+    to_emails:
+    - "{{ env_var('SMTP_EMAIL') }}"

@@ -1,0 +1,68 @@
+StationID,Name,Intervals,Year Start,Year End,Province
+55218,ALDERSVILLE,"['Hourly', 'Daily']",2021,2024,NS
+46007,BACCARO PT,"['Hourly', 'Daily', 'Monthly']",2007,2024,NS
+10078,BEAVER ISLAND (AUT),"['Hourly', 'Daily']",1994,2024,NS
+43406,BEDFORD BASIN,"['Hourly', 'Daily']",2004,2024,NS
+43123,BEDFORD RANGE,"['Hourly', 'Daily']",2004,2024,NS
+7105,BERWICK,"['Daily', 'Monthly']",1994,2015,NS
+6308,BRIDGEWATER,"['Daily', 'Monthly']",1961,2014,NS
+10859,BRIER ISLAND,"['Hourly', 'Daily', 'Monthly']",1969,2024,NS
+8990,CARIBOU POINT (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,NS
+6318,CHARLESVILLE,"['Daily', 'Monthly']",1978,2017,NS
+27600,CHETICAMP CS,"['Hourly', 'Daily', 'Monthly']",1999,2018,NS
+54618,CHETICAMP HIGHLANDS NATIONAL PARK,"['Hourly', 'Daily']",2018,2024,NS
+49769,CHETICAMP SNOW,['Daily'],2011,2015,NS
+6329,COLLEGEVILLE,"['Daily', 'Monthly']",1916,2016,NS
+53538,COLLEGEVILLE AUTO,"['Hourly', 'Daily']",2015,2024,NS
+42243,DEBERT,"['Hourly', 'Daily', 'Monthly']",2003,2024,NS
+50208,EMERGENCY WEATHER STATION #2,"['Hourly', 'Daily']",2013,2023,NS
+49748,ESKASONI FIRST NATION AUTOMATIC WEATHER STATION,"['Hourly', 'Daily']",2011,2024,NS
+10792,GRAND ETANG,"['Hourly', 'Daily']",1994,2024,NS
+6354,GREENWOOD A,"['Hourly', 'Daily', 'Monthly']",1953,2024,NS
+43405,HALIFAX DOCKYARD,"['Hourly', 'Daily']",2004,2024,NS
+43124,HALIFAX KOOTENAY,"['Hourly', 'Daily']",2004,2024,NS
+50620,HALIFAX STANFIELD INT'L A,"['Hourly', 'Daily']",2012,2024,NS
+53938,HALIFAX STANFIELD INT'L A,"['Hourly', 'Daily']",2019,2024,NS
+43403,HALIFAX WINDSOR PARK,"['Hourly', 'Daily']",2004,2024,NS
+7173,HART ISLAND (AUT),"['Hourly', 'Daily']",1994,2024,NS
+30326,INGONISH BEACH RCS,"['Hourly', 'Daily', 'Monthly']",2000,2024,NS
+6923,KEJIMKUJIK 1,"['Hourly', 'Daily', 'Monthly']",1994,2024,NS
+27141,KENTVILLE CDA CS,"['Hourly', 'Daily', 'Monthly']",1999,2024,NS
+27742,LAKE MAJOR,"['Daily', 'Monthly']",1999,2024,NS
+54578,LOUISBOURG,"['Hourly', 'Daily']",2017,2024,NS
+31829,LUNENBURG,"['Hourly', 'Daily', 'Monthly']",2002,2024,NS
+6393,LYONS BROOK,"['Daily', 'Monthly']",1984,2017,NS
+6394,MABOU,"['Daily', 'Monthly']",1986,2014,NS
+30668,MALAY FALLS,"['Hourly', 'Daily', 'Monthly']",1999,2024,NS
+7169,MCNABS ISLAND (AUT),"['Hourly', 'Daily']",1999,2024,NS
+6409,MIDDLE MUSQUODOBOIT,"['Daily', 'Monthly']",1961,2019,NS
+42083,NAPPAN AUTO,"['Hourly', 'Daily', 'Monthly']",2003,2024,NS
+27592,NORTH MOUNTAIN CS,"['Hourly', 'Daily', 'Monthly']",1998,2024,NS
+10661,NORTHEAST MARGAREE (AUT),"['Hourly', 'Daily']",1994,2024,NS
+43404,OSBORNE HEAD DND,"['Hourly', 'Daily']",2004,2024,NS
+43183,PARRSBORO,"['Hourly', 'Daily', 'Monthly']",2004,2024,NS
+6435,POCKWOCK LAKE,"['Daily', 'Monthly']",1979,2024,NS
+48668,PORT HAWKESBURY,"['Hourly', 'Daily']",2010,2024,NS
+6447,PUGWASH,"['Daily', 'Monthly']",1965,2014,NS
+6454,SABLE ISLAND,"['Hourly', 'Daily', 'Monthly']",1953,2016,NS
+54639,SABLE ISLAND,"['Hourly', 'Daily']",2017,2024,NS
+52202,SABLE ISLAND A,"['Hourly', 'Daily']",2014,2024,NS
+6465,SHEARWATER A,"['Hourly', 'Daily', 'Monthly']",1953,2024,NS
+10945,SHEARWATER JETTY,"['Hourly', 'Daily']",1994,2024,NS
+47187,SHEARWATER RCS,"['Hourly', 'Daily']",2008,2024,NS
+54603,SHELBURNE SANDY POINT,"['Hourly', 'Daily']",2018,2024,NS
+6456,ST MARGARET'S BAY,"['Daily', 'Monthly']",1922,2021,NS
+9033,ST PAUL ISLAND (AUT),"['Hourly', 'Daily']",1994,2024,NS
+54281,SYDNEY A,"['Hourly', 'Daily']",2016,2024,NS
+6486,SYDNEY A,"['Hourly', 'Daily', 'Monthly']",1953,2014,NS
+52518,SYDNEY A,"['Hourly', 'Daily']",2014,2024,NS
+44503,SYDNEY CS,"['Hourly', 'Daily', 'Monthly']",2006,2024,NS
+6927,TATAMAGOUCHE,"['Daily', 'Monthly']",1993,2021,NS
+41575,TRACADIE,"['Hourly', 'Daily', 'Monthly']",2003,2024,NS
+44363,UPPER STEWIACKE RCS,"['Hourly', 'Daily', 'Monthly']",2005,2024,NS
+6497,WATERVILLE CAMBRIDGE,"['Daily', 'Monthly']",1980,2023,NS
+6501,WESTERN HEAD,"['Hourly', 'Daily', 'Monthly']",1959,2024,NS
+6507,WHITE ROCK,"['Daily', 'Monthly']",1977,2021,NS
+54284,YARMOUTH A,"['Hourly', 'Daily']",2016,2024,NS
+50133,YARMOUTH A,"['Hourly', 'Daily']",2012,2024,NS
+50408,YARMOUTH RCS,"['Hourly', 'Daily']",2012,2024,NS

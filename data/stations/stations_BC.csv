@@ -1,0 +1,368 @@
+StationID,Name,Intervals,Year Start,Year End,Province
+1309,100 MILE HOUSE 6NE,"['Daily', 'Monthly']",1987,2023,BC
+559,108 MILE HOUSE ABEL LAKE,"['Daily', 'Monthly']",1987,2020,BC
+54238,ABBOTSFORD A,"['Hourly', 'Daily']",2016,2024,BC
+50308,ABBOTSFORD A,"['Hourly', 'Daily']",2011,2024,BC
+374,ADDENBROKE ISLAND,"['Hourly', 'Daily', 'Monthly']",1994,2001,BC
+707,AGASSIZ CDA,"['Daily', 'Monthly']",1889,2023,BC
+706,AGASSIZ RCS,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+225,ALBERNI ROBERTSON CREEK,"['Daily', 'Monthly']",1961,2024,BC
+48708,ASHCROFT,"['Hourly', 'Daily']",2010,2024,BC
+1485,ATLIN,"['Daily', 'Monthly']",1899,2021,BC
+138,BALLENAS ISLAND,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+568,BARKERVILLE,"['Daily', 'Monthly']",1888,2024,BC
+1167,BAYNES LAKE KOOTENAY RIVER,"['Daily', 'Monthly']",1986,2017,BC
+49388,BELLA BELLA,"['Hourly', 'Daily']",2011,2024,BC
+51419,BELLA COOLA A,['Hourly'],2013,2024,BC
+52978,BELLA COOLA A,"['Hourly', 'Daily']",2014,2024,BC
+381,BELLA COOLA A,"['Hourly', 'Daily', 'Monthly']",1983,2013,BC
+54338,BELLA COOLA AIRPORT,"['Hourly', 'Daily']",2015,2024,BC
+1100,BILLINGS,"['Daily', 'Monthly']",1984,2024,BC
+45507,BLACK CREEK SE,"['Daily', 'Monthly']",2006,2016,BC
+45787,BLACKCOMB BASE SLIDING CENTER,"['Hourly', 'Daily']",2007,2018,BC
+53424,BLUE RIVER A,"['Hourly', 'Daily']",2015,2024,BC
+53423,BLUE RIVER A,['Hourly'],2015,2024,BC
+1237,BLUE RIVER A,"['Hourly', 'Daily', 'Monthly']",1969,2015,BC
+8214,BLUE RIVER CS,"['Hourly', 'Daily', 'Monthly']",1993,2024,BC
+383,BOAT BLUFF,"['Hourly', 'Daily', 'Monthly']",1994,2001,BC
+384,BONILLA ISLAND,"['Hourly', 'Daily', 'Monthly']",1994,2001,BC
+8265,BONILLA ISLAND (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+295,BOWEN ISLAND BOWEN BAY,"['Daily', 'Monthly']",1966,2014,BC
+6816,BOWEN ISLAND SUNSET PARK,"['Daily', 'Monthly']",1992,2024,BC
+1243,BUFFALO LAKE,"['Daily', 'Monthly']",1962,2016,BC
+731,BURNABY SIMON FRASER U,"['Daily', 'Monthly']",1965,2022,BC
+574,BURNS LAKE DECKER LAKE,"['Hourly', 'Daily', 'Monthly']",1990,2024,BC
+43500,CALLAGHAN VALLEY,"['Hourly', 'Daily', 'Monthly']",2005,2024,BC
+52979,CAMPBELL RIVER A,"['Hourly', 'Daily']",2014,2024,BC
+51317,CAMPBELL RIVER A,['Hourly'],2013,2024,BC
+145,CAMPBELL RIVER A,"['Hourly', 'Daily', 'Monthly']",1979,2013,BC
+150,CAMPBELL RIVER SURFSIDE,"['Daily', 'Monthly']",1981,2015,BC
+235,CAPE BEALE LIGHT,"['Daily', 'Monthly']",1984,2024,BC
+152,CAPE MUDGE,"['Hourly', 'Daily', 'Monthly']",1994,2001,BC
+237,CAPE SCOTT,"['Hourly', 'Daily', 'Monthly']",1966,2001,BC
+10901,CAPE ST JAMES,"['Hourly', 'Daily', 'Monthly']",1993,2024,BC
+1355,CARIBOO LODGE,"['Daily', 'Monthly']",1975,2016,BC
+239,CARMANAH POINT,"['Daily', 'Monthly']",1968,2020,BC
+5017,CASTLE ROCK 6 NORTH,"['Daily', 'Monthly']",1991,2014,BC
+1105,CASTLEGAR A,"['Hourly', 'Daily', 'Monthly']",1954,2013,BC
+52938,CASTLEGAR A,"['Hourly', 'Daily']",2014,2024,BC
+51458,CASTLEGAR A,['Hourly'],2013,2024,BC
+1106,CASTLEGAR BCHPA DAM,"['Daily', 'Monthly']",1969,2024,BC
+8264,CATHEDRAL POINT (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+1398,CHARLIE LAKE,"['Daily', 'Monthly']",1988,2017,BC
+153,CHATHAM POINT,"['Hourly', 'Daily', 'Monthly']",1994,2001,BC
+26,CHEMAINUS,"['Daily', 'Monthly']",1919,2024,BC
+1400,CHETWYND A,"['Hourly', 'Daily', 'Monthly']",1982,2014,BC
+51420,CHETWYND A,['Hourly'],2014,2024,BC
+52939,CHETWYND A,"['Hourly', 'Daily']",2014,2024,BC
+735,CHILLIWACK,"['Daily', 'Monthly']",1879,2014,BC
+716,CHILLIWACK R HATCHERY,"['Daily', 'Monthly']",1961,2016,BC
+51978,CHILLIWACK SOUTH,['Daily'],2023,2024,BC
+51678,CHROME ISLAND,['Daily'],2013,2020,BC
+52398,CLEARWATER AUTO,"['Hourly', 'Daily']",2014,2024,BC
+1255,CLINTON (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2018,BC
+51558,CLINTON A,"['Hourly', 'Daily']",2013,2024,BC
+53638,CLINTON RCS,"['Hourly', 'Daily']",2015,2024,BC
+747,CLOVERDALE EAST,"['Daily', 'Monthly']",1964,2024,BC
+155,COMOX A,"['Hourly', 'Daily', 'Monthly']",1953,2024,BC
+242,CONUMA RIVER HATCHERY,"['Daily', 'Monthly']",1989,2018,BC
+750,COQUITLAM COMO LAKE AVE,"['Daily', 'Monthly']",1972,2016,BC
+160,CORTES ISLAND TIBER BAY,"['Daily', 'Monthly']",1960,2019,BC
+161,COURTENAY GRANTHAM,"['Daily', 'Monthly']",1960,2024,BC
+162,COURTENAY PUNTLEDGE,"['Daily', 'Monthly']",1984,2024,BC
+37,COWICHAN LAKE FORESTRY,"['Daily', 'Monthly']",1949,2018,BC
+50818,CRANBROOK A,"['Hourly', 'Daily']",2012,2024,BC
+50957,CRANBROOK A - HWOS CLIMATE,['Daily'],2012,2014,BC
+51818,CRANBROOK AIRPORT AUTO,"['Hourly', 'Daily']",2013,2024,BC
+26989,CRESCENT SPUR,"['Daily', 'Monthly']",1994,2016,BC
+1111,CRESTON,"['Daily', 'Monthly']",1912,2017,BC
+6838,CRESTON CAMPBELL SCIENTIFIC,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+1256,CRISS CREEK,"['Daily', 'Monthly']",1988,2020,BC
+50368,CULTUS LAKE,"['Hourly', 'Daily']",2012,2024,BC
+6822,CUMSHEWA ISLAND,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+1257,DARFIELD,"['Daily', 'Monthly']",1956,2018,BC
+48208,DAWSON CREEK A,"['Hourly', 'Daily']",2009,2024,BC
+6845,DEASE LAKE (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+49628,DEASE LAKE A,"['Hourly', 'Daily']",2011,2024,BC
+49088,DELTA BURNS BOG,"['Hourly', 'Daily']",2010,2024,BC
+766,DELTA TSAWWASSEN BEACH,"['Daily', 'Monthly']",1971,2024,BC
+27226,DISCOVERY ISLAND,"['Hourly', 'Daily', 'Monthly']",1997,2024,BC
+387,DRYAD POINT,"['Hourly', 'Daily', 'Monthly']",1994,2001,BC
+46,DUNCAN KELVIN CREEK,"['Daily', 'Monthly']",1987,2016,BC
+1115,DUNCAN LAKE DAM,"['Daily', 'Monthly']",1963,2024,BC
+389,EGG ISLAND,"['Hourly', 'Daily', 'Monthly']",1969,2001,BC
+132,ENTRANCE ISLAND,"['Daily', 'Monthly']",1987,2024,BC
+29411,ENTRANCE ISLAND,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+461,EQUITY SILVER,"['Daily', 'Monthly']",1981,2021,BC
+52,ESQUIMALT HARBOUR,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+244,ESTEVAN POINT,"['Hourly', 'Daily', 'Monthly']",1953,1979,BC
+8040,ESTEVAN POINT CS,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+29733,FANNY ISLAND,"['Hourly', 'Daily', 'Monthly']",2000,2024,BC
+1117,FAUQUIER,"['Daily', 'Monthly']",1913,2017,BC
+1180,FERNIE,"['Daily', 'Monthly']",1913,2024,BC
+1184,FORDING RIVER COMINCO,"['Daily', 'Monthly']",1970,2017,BC
+43723,FORT LANGLEY TELEGRAPH TRAIL,"['Daily', 'Monthly']",2005,2024,BC
+54098,FORT NELSON,"['Hourly', 'Daily']",2015,2024,BC
+50819,FORT NELSON A,"['Hourly', 'Daily']",2012,2024,BC
+8248,FORT NELSON UA,"['Daily', 'Monthly']",1999,2017,BC
+588,FORT ST JAMES,"['Daily', 'Monthly']",1895,2019,BC
+51538,FORT ST JAMES AUTO,"['Hourly', 'Daily']",2013,2024,BC
+55363,FORT ST JAMES GOLF CLUB,"['Hourly', 'Daily']",2022,2024,BC
+55198,FORT ST JOHN AIRPORT,"['Hourly', 'Daily']",2021,2024,BC
+50997,FORT ST JOHN- HWOS CLIMATE,['Daily'],2012,2014,BC
+50837,FORT ST. JOHN A,"['Hourly', 'Daily']",2012,2024,BC
+1186,FT STEELE DANDY CRK,"['Daily', 'Monthly']",1968,2024,BC
+172,GABRIOLA ISLAND,"['Daily', 'Monthly']",1967,2017,BC
+55,GALIANO NORTH,"['Daily', 'Monthly']",1975,2021,BC
+57,GANGES MANSELL RD,"['Daily', 'Monthly']",1974,2014,BC
+309,GIBSONS GOWER POINT,"['Daily', 'Monthly']",1961,2024,BC
+1345,GLACIER NP MT FIDELITY,"['Daily', 'Monthly']",1969,2024,BC
+1363,GLACIER NP ROGERS PASS,"['Daily', 'Monthly']",1965,2024,BC
+246,GOLD RIVER TOWNSITE,"['Daily', 'Monthly']",1966,2016,BC
+52439,GOLDEN A,['Hourly'],2014,2024,BC
+52980,GOLDEN A,"['Hourly', 'Daily']",2014,2024,BC
+1364,GOLDEN A,"['Hourly', 'Daily', 'Monthly']",1991,2014,BC
+54318,GOLDEN AIRPORT,"['Hourly', 'Daily']",2015,2024,BC
+1365,GOLDSTREAM RIVER,"['Daily', 'Monthly']",1982,2018,BC
+50579,GRAND FORKS HARDY MTN,['Daily'],2012,2015,BC
+393,GREEN ISLAND,"['Hourly', 'Daily', 'Monthly']",1970,2001,BC
+8258,GREY ISLET (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+27449,GRIEF POINT,"['Hourly', 'Daily']",1997,2024,BC
+776,HANEY UBC RF ADMIN,"['Daily', 'Monthly']",1961,2024,BC
+46027,HEDLEY N,['Daily'],2007,2017,BC
+996,HEDLEY NP MINE,"['Daily', 'Monthly']",1904,2015,BC
+8259,HERBERT ISLAND (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+173,HERIOT BAY SE,"['Daily', 'Monthly']",1984,2022,BC
+592,HIXON,"['Daily', 'Monthly']",1970,2024,BC
+6823,HOLLAND ROCK,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+49588,HOPE A,"['Hourly', 'Daily']",2011,2024,BC
+50517,HOPE AIRPORT,"['Hourly', 'Daily']",2012,2024,BC
+951,HOPE SLIDE,"['Hourly', 'Daily', 'Monthly']",1969,2014,BC
+52160,HOPE SLIDE A,['Hourly'],2014,2024,BC
+596,HORSEFLY LAKE GRUHS LAKE,"['Daily', 'Monthly']",1950,2016,BC
+470,HOUSTON,"['Daily', 'Monthly']",1957,2024,BC
+6817,HOWE SOUND - PAM ROCKS,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+395,IVORY ISLAND,"['Hourly', 'Daily', 'Monthly']",1994,2001,BC
+27122,JELLICOE,"['Daily', 'Monthly']",1995,2024,BC
+51423,KAMLOOPS A,"['Hourly', 'Daily']",2013,2024,BC
+42203,KAMLOOPS AUT,"['Hourly', 'Daily', 'Monthly']",2006,2024,BC
+1216,KAMLOOPS PRATT ROAD,"['Daily', 'Monthly']",1986,2024,BC
+1124,KASLO,"['Daily', 'Monthly']",1894,2018,BC
+48369,KELOWNA,"['Hourly', 'Daily']",2009,2024,BC
+10976,KELOWNA MWS0,"['Daily', 'Monthly']",1994,2017,BC
+26932,KELOWNA QUAILS GATE,"['Daily', 'Monthly']",1995,2014,BC
+51117,KELOWNA UBCO,"['Hourly', 'Daily']",2012,2024,BC
+10853,KELP REEFS,"['Hourly', 'Daily']",1997,2024,BC
+396,KEMANO,"['Daily', 'Monthly']",1951,2024,BC
+1194,KIMBERLEY PCC,"['Daily', 'Monthly']",1975,2024,BC
+8062,KINDAKUN ROCKS (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+403,KITIMAT 2,"['Daily', 'Monthly']",1966,2023,BC
+54978,KITIMAT FOREST AVE,"['Hourly', 'Daily']",2020,2024,BC
+27121,KITIMAT HATCHERY,"['Daily', 'Monthly']",1995,2024,BC
+402,KITIMAT TOWNSITE,"['Daily', 'Monthly']",1954,2022,BC
+1199,KOOTENAY NP WEST GATE,"['Daily', 'Monthly']",1968,2022,BC
+794,LAIDLAW,"['Daily', 'Monthly']",1977,2017,BC
+40,LAKE COWICHAN,"['Daily', 'Monthly']",1960,2024,BC
+358,LANGARA,"['Hourly', 'Daily', 'Monthly']",1954,2001,BC
+6819,LANGARA ISLAND RCS,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+55460,LANGLEY REGIONAL,"['Hourly', 'Daily']",2023,2024,BC
+257,LENNARD ISLAND,"['Daily', 'Monthly']",1980,2024,BC
+27388,LILLOOET,"['Hourly', 'Daily', 'Monthly']",1997,2024,BC
+1130,LISTER,"['Daily', 'Monthly']",1956,2024,BC
+181,LITTLE QUALICUM HATCHERY,"['Daily', 'Monthly']",1981,2023,BC
+6824,LUCY ISLAND LIGHTSTATION,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+966,LYTTON 2,"['Daily', 'Monthly']",1917,2015,BC
+51598,LYTTON A,"['Hourly', 'Daily']",2013,2024,BC
+44927,LYTTON RCS,"['Hourly', 'Daily', 'Monthly']",2006,2024,BC
+48870,MACKENZIE,"['Hourly', 'Daily']",2010,2024,BC
+1423,MACKENZIE A,"['Hourly', 'Daily', 'Monthly']",1971,2015,BC
+51517,MACKENZIE AIRPORT AUTO,"['Hourly', 'Daily']",2013,2024,BC
+65,MALAHAT,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+53278,MAPLE RIDGE FERGUSON AVENUE,['Daily'],2015,2015,BC
+787,MAPLE RIDGE KANAKA CREEK,"['Daily', 'Monthly']",1986,2018,BC
+361,MASSET A,"['Daily', 'Monthly']",1944,2016,BC
+52339,MASSET A,['Hourly'],2014,2024,BC
+52940,MASSET A,"['Hourly', 'Daily']",2014,2024,BC
+360,MASSET AIRPORT,"['Hourly', 'Daily', 'Monthly']",2005,2014,BC
+409,MCINNES ISLAND,"['Hourly', 'Daily', 'Monthly']",1955,2001,BC
+616,MCLEESE LAKE FRASERVIEW,"['Daily', 'Monthly']",1980,2016,BC
+617,MCLEESE LAKE GRANITE MT,"['Daily', 'Monthly']",1972,2024,BC
+49408,MERRITT,"['Hourly', 'Daily']",2011,2024,BC
+1022,MERRITT STP,"['Daily', 'Monthly']",1968,2024,BC
+320,MERRY ISLAND LIGHTSTATION,"['Hourly', 'Daily', 'Monthly']",1954,2001,BC
+68,METCHOSIN,"['Daily', 'Monthly']",1911,2024,BC
+1367,MICA DAM,"['Daily', 'Monthly']",1951,2024,BC
+1091,MIDWAY,"['Daily', 'Monthly']",1987,2023,BC
+810,MISSION WEST ABBEY,"['Daily', 'Monthly']",1962,2024,BC
+187,MUD BAY,"['Daily', 'Monthly']",1971,2015,BC
+1470,MUNCHO LAKE,"['Hourly', 'Daily', 'Monthly']",1994,2014,BC
+52158,MUNCHO LAKE A,['Hourly'],2014,2024,BC
+188,MYRA CREEK,"['Daily', 'Monthly']",1979,2015,BC
+698,N VAN SEYMOUR HATCHERY,"['Daily', 'Monthly']",1981,2023,BC
+823,N VANC GROUSE MTN RESORT,"['Daily', 'Monthly']",1971,2024,BC
+833,N VANCOUVER WHARVES,"['Daily', 'Monthly']",1962,2024,BC
+6840,NAKUSP CS,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+192,NANAIMO A,"['Hourly', 'Daily', 'Monthly']",1954,2013,BC
+52941,NANAIMO A,"['Hourly', 'Daily']",2014,2024,BC
+51318,NANAIMO A,"['Hourly', 'Daily']",2013,2024,BC
+189,NANAIMO CITY YARD,"['Daily', 'Monthly']",1981,2024,BC
+52058,NANOOSE BAY AUTO,['Hourly'],2014,2015,BC
+482,NASS CAMP,"['Daily', 'Monthly']",1973,2017,BC
+6839,NELSON CS,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+1137,NELSON NE,"['Daily', 'Monthly']",1983,2023,BC
+1095,NELSON RIXEN CREEK,"['Daily', 'Monthly']",1990,2024,BC
+1142,NEW DENVER,"['Daily', 'Monthly']",1924,2024,BC
+260,NITINAT RIVER HATCHERY,"['Daily', 'Monthly']",1981,2024,BC
+261,NOOTKA LIGHTSTATION,"['Hourly', 'Daily', 'Monthly']",1994,2001,BC
+46728,NORTH COWICHAN,"['Hourly', 'Daily']",2007,2024,BC
+76,NORTH COWICHAN,"['Daily', 'Monthly']",1981,2024,BC
+77,NORTH PENDER ISLAND,"['Daily', 'Monthly']",1972,2024,BC
+1032,OKANAGAN CENTRE,"['Daily', 'Monthly']",1925,2022,BC
+1039,OLIVER STP,"['Daily', 'Monthly']",1924,2022,BC
+535,OOTSA L SKINS L SPILLWAY,"['Daily', 'Monthly']",1956,2017,BC
+43963,OOTSA LAKESKINS LAKE CLIMATE,"['Hourly', 'Daily', 'Monthly']",2005,2024,BC
+1041,OSOYOOS CS,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+262,PACHENA POINT,"['Hourly', 'Daily', 'Monthly']",1953,1958,BC
+1046,PEACHLAND,"['Daily', 'Monthly']",1971,2024,BC
+46747,PEMBERTON AIRPORT (WIND),"['Hourly', 'Daily']",2007,2024,BC
+536,PEMBERTON AIRPORT CS,"['Hourly', 'Daily', 'Monthly']",1988,2024,BC
+323,PENDER HARBOUR,"['Daily', 'Monthly']",1961,2024,BC
+50269,PENTICTON A,"['Hourly', 'Daily']",2012,2024,BC
+200,PINE ISLAND,"['Hourly', 'Daily', 'Monthly']",1994,2001,BC
+54818,PINK MOUNTAIN 3,"['Hourly', 'Daily']",2019,2024,BC
+55462,PITT MEADOWS,"['Hourly', 'Daily']",2023,2024,BC
+6830,PITT MEADOWS CS,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+1504,PLEASANT CAMP,"['Daily', 'Monthly']",1974,2022,BC
+844,POINT ATKINSON,"['Hourly', 'Daily', 'Monthly']",1996,2024,BC
+8045,PORT ALBERNI (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+266,PORT ALBERNI COX LAKE,"['Daily', 'Monthly']",1987,2020,BC
+269,PORT ALICE,"['Daily', 'Monthly']",1924,2015,BC
+51319,PORT HARDY A,"['Hourly', 'Daily']",2013,2024,BC
+54602,PORT HARDY AIRPORT,"['Hourly', 'Daily']",2023,2024,BC
+45267,PORT MELLON,"['Hourly', 'Daily', 'Monthly']",2006,2024,BC
+834,PORT MOODY GLENAYRE,"['Daily', 'Monthly']",1970,2024,BC
+82,PORT RENFREW,"['Daily', 'Monthly']",1970,2022,BC
+45807,POWELL RIVER,"['Hourly', 'Daily']",2007,2024,BC
+327,POWELL RIVER A,"['Hourly', 'Daily', 'Monthly']",1982,2013,BC
+51438,POWELL RIVER A,['Hourly'],2013,2024,BC
+52018,POWELL RIVER A,"['Hourly', 'Daily']",2013,2024,BC
+48370,PRINCE GEORGE,"['Hourly', 'Daily']",2009,2024,BC
+48248,PRINCE GEORGE AIRPORT AUTO,"['Hourly', 'Daily']",2009,2024,BC
+50169,PRINCE GEORGE MASSEY AUTO,"['Hourly', 'Daily']",2012,2024,BC
+636,PRINCE GEORGE STP,"['Daily', 'Monthly']",1975,2023,BC
+48693,PRINCE RUPERT,"['Hourly', 'Daily']",2010,2024,BC
+424,PRINCE RUPERT MONT CIRC,"['Daily', 'Monthly']",1959,2024,BC
+51439,PRINCETON A,['Hourly'],2013,2024,BC
+1056,PRINCETON A,"['Hourly', 'Daily', 'Monthly']",1953,2013,BC
+52958,PRINCETON A,"['Hourly', 'Daily']",2014,2024,BC
+6834,PRINCETON CS,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+8092,PUNTZI MOUNTAIN (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+45627,QUALICUM BEACH AIRPORT,"['Hourly', 'Daily', 'Monthly']",2006,2024,BC
+208,QUALICUM R FISH RESEARCH,"['Daily', 'Monthly']",1962,2024,BC
+271,QUATSINO,"['Daily', 'Monthly']",1895,2024,BC
+272,QUATSINO LIGHTSTATION,"['Hourly', 'Daily', 'Monthly']",1994,2001,BC
+48688,QUESNEL,"['Hourly', 'Daily']",2010,2024,BC
+48108,QUESNEL AIRPORT AUTO,"['Hourly', 'Daily']",2009,2024,BC
+209,QUINSAM RIVER HATCHERY,"['Daily', 'Monthly']",1975,2024,BC
+10943,RACE ROCKS,"['Hourly', 'Daily']",1994,2024,BC
+1313,RED LAKE,"['Daily', 'Monthly']",1974,2024,BC
+49492,REVELSTOKE A,"['Hourly', 'Daily']",2011,2024,BC
+1370,REVELSTOKE A,"['Hourly', 'Daily', 'Monthly']",1994,2014,BC
+49548,REVELSTOKE AIRPORT AUTO,"['Hourly', 'Daily']",2011,2024,BC
+46147,REVELSTOKE COLUMBIA PARK,['Daily'],2007,2015,BC
+853,RICHMOND DALLYN 2,"['Daily', 'Monthly']",1963,2024,BC
+837,RICHMOND NATURE PARK,"['Daily', 'Monthly']",1977,2024,BC
+48448,RICHMOND OPERATIONS CENTRE,"['Hourly', 'Daily']",2010,2018,BC
+8064,ROSE SPIT (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+87,SAANICHTON CDA,"['Daily', 'Monthly']",1914,2023,BC
+54641,SAANICHTON CFIA,"['Hourly', 'Daily']",2020,2024,BC
+78,SAANICHTON MT NEWTON,"['Daily', 'Monthly']",1980,2024,BC
+1311,SALMON ARM A,"['Daily', 'Monthly']",1982,2017,BC
+6843,SALMON ARM CS,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+93,SALTSPRING ST MARY'S L,"['Daily', 'Monthly']",1975,2022,BC
+6831,SANDHEADS CS,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+48648,SANDSPIT,"['Hourly', 'Daily']",2010,2024,BC
+367,SANDSPIT A,"['Hourly', 'Daily', 'Monthly']",1953,2005,BC
+50108,SANDSPIT AIRPORT AUTO,"['Hourly', 'Daily']",2012,2024,BC
+8261,SARTINE ISLAND (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+95,SATURNA CAPMON,"['Daily', 'Monthly']",1989,2018,BC
+6810,SATURNA CAPMON CS,"['Hourly', 'Daily', 'Monthly']",2006,2024,BC
+96,SATURNA ISLAND CS,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+45788,SECHELT AUT,"['Hourly', 'Daily']",2007,2024,BC
+351,SEWALL MASSET INLET,"['Daily', 'Monthly']",1974,2017,BC
+97,SHAWNIGAN LAKE,"['Daily', 'Monthly']",1911,2023,BC
+6811,SHERINGHAM POINT,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+52078,SIKANNI CHIEF,['Hourly'],2014,2018,BC
+1440,SIKANNI CHIEF,"['Hourly', 'Daily', 'Monthly']",1994,2014,BC
+1327,SILVER CREEK,"['Daily', 'Monthly']",1989,2021,BC
+6813,SISTERS ISLAND,"['Hourly', 'Daily', 'Monthly']",1995,2024,BC
+48628,SMITHERS,"['Hourly', 'Daily']",2010,2024,BC
+487,SMITHERS A,"['Hourly', 'Daily', 'Monthly']",1953,2012,BC
+50130,SMITHERS A,['Hourly'],2012,2024,BC
+51658,SMITHERS AIRPORT AUTO,"['Hourly', 'Daily']",2013,2024,BC
+8260,SOLANDER ISLAND (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+1207,SPARWOOD,"['Hourly', 'Daily', 'Monthly']",1980,2014,BC
+52278,SPARWOOD A,['Hourly'],2014,2024,BC
+52959,SPARWOOD A,"['Hourly', 'Daily']",2014,2024,BC
+6842,SPARWOOD CS,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+650,SPOKIN LAKE 4E,"['Daily', 'Monthly']",1983,2024,BC
+336,SQUAMISH AIRPORT,"['Hourly', 'Daily', 'Monthly']",1982,2024,BC
+53422,STEWART A,['Hourly'],2015,2024,BC
+53438,STEWART A,"['Hourly', 'Daily']",2015,2024,BC
+434,STEWART A,"['Hourly', 'Daily', 'Monthly']",1974,2015,BC
+870,SUMAS CANAL,"['Daily', 'Monthly']",1957,2024,BC
+979,SUMMERLAND CS,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+11006,SUN PEAKS LOWER,"['Daily', 'Monthly']",1994,2022,BC
+1338,SUN PEAKS MOUNTAIN,"['Daily', 'Monthly']",1980,2022,BC
+11005,SUN PEAKS UPPER,"['Daily', 'Monthly']",1994,2022,BC
+450,SUSKWA VALLEY,"['Daily', 'Monthly']",1982,2024,BC
+276,TAHSIS VILLAGE NORTH,"['Daily', 'Monthly']",1989,2024,BC
+30494,TATLAYOKO LAKE RCS,"['Hourly', 'Daily', 'Monthly']",2000,2024,BC
+1443,TAYLOR FLATS,"['Daily', 'Monthly']",1960,2015,BC
+51037,TERRACE A,"['Hourly', 'Daily']",2013,2024,BC
+442,TERRACE PCC,"['Daily', 'Monthly']",1968,2024,BC
+1464,TETSA RIVER,"['Hourly', 'Daily', 'Monthly']",1994,2014,BC
+52159,TETSA RIVER A,['Hourly'],2014,2024,BC
+52198,TOFINO A,['Hourly'],2014,2024,BC
+52960,TOFINO A,"['Hourly', 'Daily']",2014,2024,BC
+277,TOFINO A,"['Hourly', 'Daily', 'Monthly']",1960,2014,BC
+496,TOPLEY LANDING,"['Daily', 'Monthly']",1962,2017,BC
+446,TRIPLE ISLAND,"['Hourly', 'Daily', 'Monthly']",1953,2001,BC
+50228,TSAWWASSEN FERRY AUTO,"['Hourly', 'Daily']",2012,2024,BC
+283,UCLUELET KENNEDY CAMP,"['Daily', 'Monthly']",1964,2024,BC
+55458,VANCOUVER BOUNDARY BAY,"['Hourly', 'Daily']",2023,2024,BC
+55438,VANCOUVER HARBOUR,"['Hourly', 'Daily']",2023,2024,BC
+888,VANCOUVER HARBOUR CS,"['Hourly', 'Daily', 'Monthly']",1976,2024,BC
+52218,VANCOUVER INT'L HWOS,['Daily'],2014,2014,BC
+51442,VANCOUVER INTL A,"['Hourly', 'Daily']",2013,2024,BC
+51357,VANCOUVER SEA ISLAND CCG,"['Hourly', 'Daily']",2013,2024,BC
+655,VANDERHOOF,"['Daily', 'Monthly']",1980,2021,BC
+1340,VAVENBY,"['Daily', 'Monthly']",1913,2024,BC
+46987,VERNON AUTO,"['Hourly', 'Daily']",2007,2024,BC
+1066,VERNON BELLA VISTA,"['Daily', 'Monthly']",1984,2017,BC
+1069,VERNON NORTH,"['Daily', 'Monthly']",1990,2020,BC
+1070,VERNON SILVER STAR LODGE,"['Daily', 'Monthly']",1970,2024,BC
+112,VICTORIA FRANCIS PARK,"['Daily', 'Monthly']",1962,2017,BC
+114,VICTORIA GONZALES CS,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+10944,VICTORIA HARBOUR A,['Hourly'],1994,2015,BC
+53478,VICTORIA HARBOUR A,['Hourly'],2015,2024,BC
+53479,VICTORIA HARBOUR A,"['Hourly', 'Daily']",2015,2024,BC
+49468,VICTORIA HIGHLANDS NORTH,['Daily'],2011,2017,BC
+51337,VICTORIA INTL A,"['Hourly', 'Daily']",2013,2024,BC
+6812,VICTORIA UNIVERSITY CS,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+1209,WARDNER KTNY HATCHERY,"['Daily', 'Monthly']",1971,2021,BC
+31067,WARFIELD RCS,"['Hourly', 'Daily', 'Monthly']",2001,2024,BC
+1210,WASA,"['Daily', 'Monthly']",1924,2017,BC
+6833,WEST VANCOUVER AUT,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+348,WHISTLER,"['Hourly', 'Daily', 'Monthly']",1983,2014,BC
+43443,WHISTLER - NESTERS,"['Hourly', 'Daily', 'Monthly']",2005,2024,BC
+52178,WHISTLER A,['Hourly'],2014,2024,BC
+924,WHISTLER ROUNDHOUSE,"['Daily', 'Monthly']",1972,2024,BC
+925,WHITE ROCK CAMPBELL SCIENTIFIC,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+129,WILLIAM HEAD,"['Daily', 'Monthly']",1959,2018,BC
+50820,WILLIAMS LAKE A,"['Hourly', 'Daily']",2012,2024,BC
+1074,WINFIELD,"['Daily', 'Monthly']",1971,2016,BC
+27094,YOHO NP EMERALD LAKE,"['Daily', 'Monthly']",1995,2017,BC
+1347,YOHO NP OHARA LAKE,"['Daily', 'Monthly']",1987,2021,BC
+6844,YOHO PARK,"['Hourly', 'Daily', 'Monthly']",1994,2024,BC
+48888,ZEBALLOS MURAUDE CREEK,['Daily'],2010,2024,BC

@@ -1,0 +1,118 @@
+StationID,Name,Intervals,Year Start,Year End,Province
+10805,ASSINIBOIA AIRPORT,"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+3350,BEACON HILL,"['Daily', 'Monthly']",1983,2017,SK
+10713,BEARTOOTH ISLAND,"['Hourly', 'Daily', 'Monthly']",1994,2001,SK
+3071,BEECHY,"['Daily', 'Monthly']",1926,2024,SK
+3210,BICKLEIGH,"['Daily', 'Monthly']",1988,2021,SK
+44543,BRATT'S LAKE CLIMATE,"['Hourly', 'Daily', 'Monthly']",2006,2024,SK
+2855,BROADVIEW,"['Hourly', 'Daily', 'Monthly']",1965,2024,SK
+7534,BUFFALO NARROWS (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+50823,BUFFALO NARROWS A,['Hourly'],2012,2019,SK
+53020,BUFFALO NARROWS A,"['Hourly', 'Daily']",2014,2024,SK
+2859,BUFFALO POUND LAKE,"['Daily', 'Monthly']",1965,2023,SK
+3212,BUTTE ST PIERRE,"['Daily', 'Monthly']",1955,2024,SK
+3359,CIGAR LAKE,"['Daily', 'Monthly']",1987,2024,SK
+3168,CLAYDON,"['Daily', 'Monthly']",1971,2017,SK
+10663,COLLINS BAY,"['Hourly', 'Daily', 'Monthly']",1994,2015,SK
+6873,COLLINS BAY CAMECO,"['Daily', 'Monthly']",1992,2024,SK
+53218,COLLINS BAY SK,"['Hourly', 'Daily']",2015,2024,SK
+3173,CORONACH,"['Daily', 'Monthly']",1971,2018,SK
+3172,CORONACH SPC,"['Hourly', 'Daily', 'Monthly']",1995,2024,SK
+2875,CUPAR,"['Daily', 'Monthly']",1955,2018,SK
+9819,CUTBANK,['Daily'],2008,2020,SK
+3085,CYPRESS HILLS,"['Daily', 'Monthly']",1981,2014,SK
+10888,CYPRESS HILLS PARK,"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+2890,DUVAL,"['Daily', 'Monthly']",1957,2024,SK
+7485,EASTEND CYPRESS (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+3091,ELBOW 2 NE,"['Daily', 'Monthly']",1990,2023,SK
+3088,ELBOW CS,"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+2894,ESK,"['Daily', 'Monthly']",1984,2014,SK
+49728,ESTEVAN,"['Hourly', 'Daily']",2011,2024,SK
+2896,ESTEVAN A,"['Hourly', 'Daily', 'Monthly']",1953,2015,SK
+54261,ESTEVAN A,"['Hourly', 'Daily']",2015,2024,SK
+53520,ESTEVAN A,"['Hourly', 'Daily']",2015,2018,SK
+3300,HOEY,"['Daily', 'Monthly']",1986,2024,SK
+6878,HUDSON BAY 13W,"['Daily', 'Monthly']",1993,2017,SK
+46367,HUDSON BAY(AUT),"['Hourly', 'Daily', 'Monthly']",2007,2024,SK
+2925,INDIAN HEAD CDA,"['Hourly', 'Daily', 'Monthly']",1995,2024,SK
+42883,ISLAND FALLS (AUT),"['Hourly', 'Daily', 'Monthly']",2004,2024,SK
+30724,JIMMY LAKE AWOS,"['Hourly', 'Daily']",2004,2022,SK
+2930,KELLIHER,"['Daily', 'Monthly']",1951,2024,SK
+3377,KEY LAKE,"['Daily', 'Monthly']",1976,2018,SK
+49448,KEY LAKE,"['Hourly', 'Daily']",2011,2024,SK
+48872,KEY LAKE,"['Hourly', 'Daily']",2010,2024,SK
+54280,KINDERSLEY A,"['Hourly', 'Daily']",2016,2024,SK
+51739,KINDERSLEY A,"['Hourly', 'Daily']",2013,2024,SK
+55278,KINDERSLEY AIRPORT,"['Hourly', 'Daily']",2021,2024,SK
+2933,KIPLING,"['Daily', 'Monthly']",1949,2024,SK
+51425,LA RONGE A,"['Hourly', 'Daily']",2013,2024,SK
+29371,LA RONGE RCS,"['Hourly', 'Daily', 'Monthly']",1999,2024,SK
+2941,LANGENBURG,"['Daily', 'Monthly']",1959,2020,SK
+2942,LAST MOUNTAIN CS,"['Hourly', 'Daily', 'Monthly']",1996,2024,SK
+10795,LEADER AIRPORT,"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+2947,LEROY,"['Daily', 'Monthly']",1980,2024,SK
+2951,LIPTON 2,"['Daily', 'Monthly']",1979,2024,SK
+48148,LOON LAKE RCS,"['Hourly', 'Daily']",2009,2024,SK
+10724,LUCKY LAKE,"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+45827,MACKLIN,"['Daily', 'Monthly']",2007,2018,SK
+2956,MACOUN,"['Daily', 'Monthly']",1971,2017,SK
+3186,MANKOTA,"['Hourly', 'Daily', 'Monthly']",2012,2024,SK
+10667,MAPLE CREEK,"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+3446,MCKAGUE 2,"['Daily', 'Monthly']",1985,2019,SK
+10198,MEADOW LAKE,"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+53021,MEADOW LAKE A,"['Hourly', 'Daily']",2014,2024,SK
+52000,MEADOW LAKE A,"['Hourly', 'Daily']",2013,2024,SK
+10727,MELFORT,"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+6867,MIDALE,"['Daily', 'Monthly']",1992,2014,SK
+2967,MOOSE JAW A,"['Hourly', 'Daily', 'Monthly']",1954,2024,SK
+27476,MOOSE JAW CS,"['Hourly', 'Daily', 'Monthly']",1997,2024,SK
+46067,MOOSE JAW SNOW,"['Daily', 'Monthly']",2004,2015,SK
+2973,MUENSTER,"['Daily', 'Monthly']",1904,2023,SK
+10195,NIPAWIN,"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+48608,NIPAWIN,"['Hourly', 'Daily']",2010,2024,SK
+48609,NORTH BATTLEFORD,"['Hourly', 'Daily']",2010,2024,SK
+44084,NORTH BATTLEFORD,"['Hourly', 'Daily', 'Monthly']",2005,2010,SK
+44344,NORTH BATTLEFORD RCS,"['Hourly', 'Daily', 'Monthly']",2005,2024,SK
+3318,OUTLOOK PFRA,"['Hourly', 'Daily', 'Monthly']",1996,2024,SK
+2981,OXBOW,"['Daily', 'Monthly']",1949,2024,SK
+2984,PARKERVIEW,"['Daily', 'Monthly']",1979,2024,SK
+3448,PELLY,"['Daily', 'Monthly']",1951,2016,SK
+3449,PELLY 2,"['Daily', 'Monthly']",1978,2019,SK
+50977,PILGER,"['Hourly', 'Daily']",2012,2024,SK
+51878,PRINCE ALBERT A,"['Hourly', 'Daily']",2013,2024,SK
+54498,PRINCE ALBERT GLASS FIELD,"['Hourly', 'Daily']",2016,2024,SK
+2992,QU'APPELLE 1,"['Daily', 'Monthly']",1962,2024,SK
+3007,REGINA GILMOUR,"['Daily', 'Monthly']",1970,2016,SK
+51441,REGINA INTL A,"['Hourly', 'Daily']",2013,2024,SK
+46607,REGINA RCMP SNOW,"['Daily', 'Monthly']",2004,2016,SK
+28011,REGINA RCS,"['Hourly', 'Daily', 'Monthly']",1996,2024,SK
+46588,REGINA SIAST SNOW,"['Daily', 'Monthly']",2004,2015,SK
+3017,ROCANVILLE,"['Daily', 'Monthly']",1968,2014,SK
+3142,ROCK POINT,"['Daily', 'Monthly']",1973,2024,SK
+3193,ROCKGLEN (AUT),"['Hourly', 'Daily', 'Monthly']",1970,2024,SK
+10784,ROSETOWN EAST,"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+50091,SASKATOON INTL A,"['Hourly', 'Daily']",2012,2024,SK
+47707,SASKATOON RCS,"['Hourly', 'Daily']",2008,2024,SK
+3333,SASKATOON SRC,"['Daily', 'Monthly']",1963,2017,SK
+3259,SCOTT CDA,"['Hourly', 'Daily', 'Monthly']",1997,2024,SK
+3261,SONNINGDALE,"['Daily', 'Monthly']",1984,2024,SK
+10242,SOUTHEND,"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+10850,SPIRITWOOD WEST,"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+3151,STEWART VALLEY,"['Daily', 'Monthly']",1984,2022,SK
+48548,STONY RAPIDS,"['Hourly', 'Daily']",2010,2024,SK
+48976,SWIFT CURRENT,"['Hourly', 'Daily']",2011,2024,SK
+3157,SWIFT CURRENT CDA,"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+26999,TONKIN,"['Daily', 'Monthly']",1994,2016,SK
+3195,TREELON,"['Daily', 'Monthly']",1971,2017,SK
+9831,URANIUM CITY (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+10821,VAL MARIE SOUTHEAST,"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+3270,WASECA,"['Daily', 'Monthly']",1907,2014,SK
+51798,WASECA RCS,"['Hourly', 'Daily']",2013,2024,SK
+10688,WASKESIU LAKE,"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+10785,WATROUS EAST,"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+10666,WEYBURN,"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+10660,WYNYARD (AUT),"['Hourly', 'Daily', 'Monthly']",1994,2024,SK
+3060,YELLOW GRASS,"['Daily', 'Monthly']",1911,2017,SK
+54518,YELLOW GRASS NORTH,"['Hourly', 'Daily']",2016,2024,SK
+48977,YORKTON,"['Hourly', 'Daily']",2011,2024,SK
+49808,YORKTON,"['Hourly', 'Daily']",2011,2024,SK
