@@ -8,6 +8,9 @@ WORKDIR ${MAGE_CODE_PATH}
 
 COPY ${PROJECT_NAME} ${PROJECT_NAME}
 
+# Copy the data directory
+COPY data data
+
 ENV USER_CODE_PATH=${USER_CODE_PATH}
 
 # Install custom Python libraries and dependencies for your project.

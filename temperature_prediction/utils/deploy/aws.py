@@ -18,7 +18,8 @@ POLICY_NAME_GITHUB_ACTIONS_DEPLOY_MAGE = 'ContinuousIntegrationContinuousDeploym
 
 
 def update_boto3_client(profile_name: Optional[str] = None) -> None:
-    boto3.setup_default_session(profile_name=profile_name or IAM_USER_NAME)
+    profile_name = profile_name or IAM_USER_NAME
+    boto3.setup_default_session(profile_name=profile_name)
     print(f'Updated boto3 client to use profile: {profile_name}')
 
 
@@ -96,7 +97,7 @@ def create_policy(policy_name, policy_url):
 
 def detach_policy_from_user(user_name, policy_name):
     policy_arn = search_policy_by_name(policy_name)
-
+    print(policy_arn)
     try:
         IAM_CLIENT.detach_user_policy(UserName=user_name, PolicyArn=policy_arn)
         print(f'Policy {policy_arn} detached from {user_name} successfully')
@@ -231,10 +232,15 @@ def delete_all_access_keys_for_user(user_name):
         print(f'Error deleting access keys for user {user_name}: {e}')
 
 
-def reset(user_name: str):
+def reset(user_name: str, cicd: Optional[bool] = None):
+    
+    if not cicd:
+        detach_policy_from_user(user_name, POLICY_NAME_TERRAFORM_APPLY_DEPLOY_MAGE)
+        detach_policy_from_user(user_name, POLICY_NAME_TERRAFORM_DESTROY_DELETE_RESOURCES)
+        delete_policy(POLICY_NAME_TERRAFORM_APPLY_DEPLOY_MAGE)
+        delete_policy(POLICY_NAME_TERRAFORM_DESTROY_DELETE_RESOURCES)
+    else:
+        detach_policy_from_user(user_name, POLICY_NAME_GITHUB_ACTIONS_DEPLOY_MAGE)
+        delete_policy(POLICY_NAME_GITHUB_ACTIONS_DEPLOY_MAGE)
     delete_access_key_for_user(user_name)
-    detach_policy_from_user(user_name, POLICY_NAME_TERRAFORM_APPLY_DEPLOY_MAGE)
-    detach_policy_from_user(user_name, POLICY_NAME_TERRAFORM_DESTROY_DELETE_RESOURCES)
-    delete_policy(POLICY_NAME_TERRAFORM_APPLY_DEPLOY_MAGE)
-    delete_policy(POLICY_NAME_TERRAFORM_DESTROY_DELETE_RESOURCES)
     delete_user(user_name)

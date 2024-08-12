@@ -21,7 +21,7 @@ if 'custom' not in globals():
 def setup(*args, **kwargs):
     reset(IAM_USER_NAME)
     try:
-        reset(IAM_USER_NAME_CICD)
+        reset(IAM_USER_NAME_CICD, True)
     except Exception:
         print('No I am user for CI/CD')
 
