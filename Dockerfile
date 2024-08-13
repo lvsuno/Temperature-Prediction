@@ -26,4 +26,7 @@ RUN apt-get update && \
    unzip terraform_1.8.3_linux_amd64.zip -d /usr/local/bin/ && \
    rm terraform_1.8.3_linux_amd64.zip
 
+
+RUN ls
+
 CMD ["/bin/sh", "-c", "/app/run_app.sh"]
