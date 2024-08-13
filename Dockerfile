@@ -10,7 +10,7 @@ COPY ${PROJECT_NAME} ${USER_CODE_PATH}
 
 # Copy the data directory
 COPY data ${MAGE_CODE_PATH}/data
-COPY mage_data ${MAGE_CODE_PATH}/mage_data
+
 
 ENV USER_CODE_PATH=${USER_CODE_PATH}
 

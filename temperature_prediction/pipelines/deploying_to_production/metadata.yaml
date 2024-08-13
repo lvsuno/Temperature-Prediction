@@ -66,7 +66,7 @@ blocks:
   upstream_blocks:
   - teardown_deployed_resources
   uuid: deploy
-- all_upstream_blocks_executed: false
+- all_upstream_blocks_executed: true
   color: purple
   configuration: {}
   downstream_blocks: []
