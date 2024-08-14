@@ -11,6 +11,8 @@ COPY ${PROJECT_NAME} ${USER_CODE_PATH}
 # Copy the data directory
 COPY data ${MAGE_CODE_PATH}/data
 
+COPY download_stations_id.py  ${MAGE_CODE_PATH}/download_stations_id.py
+
 
 ENV USER_CODE_PATH=${USER_CODE_PATH}
 
