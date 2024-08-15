@@ -17,14 +17,14 @@ def load_data(*args, **kwargs):
     Returns:
         Anything (e.g. data frame, dictionary, array, int, str, etc.)
     """
-    # mlflow.set_tracking_uri(os.getenv('DEFAULT_TRACKING_URI'))
-    # client, id =setup_experiment()
+    mlflow.set_tracking_uri(os.getenv('DEFAULT_TRACKING_URI'))
+    client, id =setup_experiment()
 
-    # delete_version(client, 'temp-pred', 1)
+    delete_version(client, 'temp-pred', 1)
 
     
-    # print(id)
-    #mlflow.delete_experiment(id)
+    #print(id)
+    mlflow.delete_experiment(id)
     
     
     

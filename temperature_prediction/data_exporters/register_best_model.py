@@ -59,7 +59,7 @@ def train_and_register(
     num_boost_round = int(best_params_new.pop('num_boost_round'))
     model, metrics, y_pred = train_model(training,
                                     validation,
-                                    early_stopping_rounds=50,
+                                    early_stopping_rounds=100,
                                     hyperparameters=best_params_new,
                                     num_boost_round=num_boost_round,
                                     )
