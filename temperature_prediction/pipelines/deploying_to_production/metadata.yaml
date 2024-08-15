@@ -107,5 +107,5 @@ type: python
 uuid: deploying_to_production
 variables:
   destroy: true
-variables_dir: /home/src/mage_data/temperature_prediction
+variables_dir: /home/src/mage_data/.
 widgets: []

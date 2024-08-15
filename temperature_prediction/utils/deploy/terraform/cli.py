@@ -25,6 +25,18 @@ def terraform_apply() -> None:
 
 def terraform_destroy() -> None:
     try:
+
+        # Initialize the Terraform configuration in the specified subfolder
+        subprocess.run(
+            [
+                'terraform',
+                '-chdir=' + TERRAFORM_AWS_FULL_PATH, 
+                'init', 
+                '-reconfigure',
+            ], 
+            check=True,
+        )
+
         subprocess.run(
             [
                 'terraform',
