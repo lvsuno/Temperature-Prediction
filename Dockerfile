@@ -1,4 +1,4 @@
-FROM mageai/mageai:latest
+FROM mageai/mageai:alpha
 
 ARG PROJECT_NAME=temperature_prediction
 ARG MAGE_CODE_PATH=/home/src
