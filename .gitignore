@@ -56,9 +56,4 @@ override.tf.json
 .env
 
 
-data/Training/old/X_train.csv
-data/Training/old/X_val.csv
-data/Training/old/y_train.csv
-data/Training/old/y_val.csv
-
 .github/

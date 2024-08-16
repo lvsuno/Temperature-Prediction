@@ -1,9 +1,9 @@
-# if 'data_loader' not in globals():
-#     from mage_ai.data_preparation.decorators import data_loader
-# if 'test' not in globals():
-#     from mage_ai.data_preparation.decorators import test
+if 'data_loader' not in globals():
+    from mage_ai.data_preparation.decorators import data_loader
+if 'test' not in globals():
+    from mage_ai.data_preparation.decorators import test
 
-# import os
+import os
 
 # import mlflow
 # from mlflow.tracking import MlflowClient
@@ -31,8 +31,8 @@
 #     return model
 
 
-# @data_loader
-# def load_data(*args, **kwargs):
+@data_loader
+def load_data(*args, **kwargs):
 #     """
 #     Template code for loading data from any source.
 
@@ -50,8 +50,8 @@
 #             dst_path=relative_path,
 #         )
 #         print(f'downloading the dict vectorizer to {path}')
-#         print(path)
-#     return {}
+    print(os.getenv('AWS_ACCESS_KEY_ID'))
+    return os.getenv('aws_access_key_id')
 
 
 # @test

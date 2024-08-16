@@ -25,7 +25,7 @@ blocks:
   language: python
   name: retrain/xgboost
   retry_config: null
-  status: executed
+  status: updated
   timeout: null
   type: custom
   upstream_blocks:
@@ -44,7 +44,7 @@ blocks:
   language: python
   name: test_evidently_drift
   retry_config: null
-  status: executed
+  status: updated
   timeout: null
   type: data_loader
   upstream_blocks: []
@@ -72,5 +72,5 @@ spark_config: {}
 tags: []
 type: python
 uuid: retrain
-variables_dir: /home/src/mage_data/temperature_prediction
+variables_dir: /home/src/mage_data/.
 widgets: []

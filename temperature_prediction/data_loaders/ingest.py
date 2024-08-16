@@ -43,7 +43,7 @@ def ingest_files(**kwargs) -> pd.DataFrame:
     All = []
     if not os.path.isfile(f'{OLD_TRAINING_FOLDER}X_train.csv'):
         print("New run. WE've never trained the model before")
-        set_global_variable('data_preparation', 'first_training', True)
+        set_global_variable('data_preparation', 'first_training', 1)
         start_date = datetime.strptime('2024 June 01', '%Y %B %d')
         for stationID in stations_df['StationID']:
             frames = []
@@ -77,7 +77,7 @@ def ingest_files(**kwargs) -> pd.DataFrame:
         all_weather_data = pd.concat(All)
 
     else:
-        set_global_variable('data_preparation', 'first_training', False)
+        set_global_variable('data_preparation', 'first_training', 0)
         print("It's a new data coming into the system")
         for stationID in stations_df['StationID']:
             weather_data = getHourlyData(

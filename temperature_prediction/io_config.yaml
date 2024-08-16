@@ -5,7 +5,7 @@ default:
   # AWS
   AWS_ACCESS_KEY_ID: "{{ env_var('AWS_ACCESS_KEY_ID') }}"
   AWS_SECRET_ACCESS_KEY: "{{ env_var('AWS_SECRET_ACCESS_KEY') }}"
-  AWS_SESSION_TOKEN: session_token (Used to generate Redshift credentials)
+  # AWS_SESSION_TOKEN: session_token (Used to generate Redshift credentials)
   AWS_REGION: region
   # Algolia
   ALGOLIA_APP_ID: app_id

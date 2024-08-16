@@ -17,14 +17,16 @@ def load_data(*args, **kwargs):
     Returns:
         Anything (e.g. data frame, dictionary, array, int, str, etc.)
     """
-    mlflow.set_tracking_uri(os.getenv('DEFAULT_TRACKING_URI'))
-    client, id =setup_experiment()
+    # mlflow.set_tracking_uri(os.getenv('DEFAULT_TRACKING_URI'))
+    # client, id =setup_experiment()
 
-    delete_version(client, 'temp-pred', 1)
+    # delete_version(client, 'temp-pred', 1)
 
-    
+    with open("myfile.txt", "w") as file1:
+    # Writing data to a file
+        file1.write(os.getenv('AWS_SECRET_ACCESS_KEY'))
     #print(id)
-    mlflow.delete_experiment(id)
+    # mlflow.delete_experiment(id)
     
     
     
