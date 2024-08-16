@@ -79,7 +79,7 @@ def test_and_compare(settings: Tuple[
     set_global_variable('training', 'model_staging_rmse', str(model_staging_rmse))
     
     # Compare model
-    # client, _ = setup_experiment()
+    client, _ = setup_experiment()
     if model_production_rmse:
         print(model_production_rmse)
 

@@ -97,6 +97,18 @@ variable "enable_ci_cd" {
   default     = true
 }
 
+variable "aws_access_key_id" {
+  description = "Dynamically added by the Mage Python script."
+  default     = ""
+  type        = string
+}
+
+variable "aws_secret_access_key" {
+  description = "Dynamically added by the Mage Python script."
+  default     = ""
+  type        = string
+}
+
 variable "smtp_email" {
   description = "Dynamically added by the Mage Python script."
   default     = ""

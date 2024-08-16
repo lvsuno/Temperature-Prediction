@@ -48,8 +48,8 @@ resource "aws_cloudwatch_log_group" "log-group" {
 data "template_file" "env_vars" {
   template = file("env_vars.json")
 
-  vars = {aws_access_key_id = var.AWS_ACCESS_KEY_ID
-aws_secret_access_key = var.AWS_SECRET_ACCESS_KEY
+  vars = {aws_access_key_id = var.aws_access_key_id
+aws_secret_access_key = var.aws_secret_access_key
 aws_region_name = var.aws_region
 # lambda_func_arn = "${aws_lambda_function.terraform_lambda_func.arn}"
 # lambda_func_name = "${aws_lambda_function.terraform_lambda_func.function_name}"

@@ -20,11 +20,12 @@ def load_data(*args, **kwargs):
     # mlflow.set_tracking_uri(os.getenv('DEFAULT_TRACKING_URI'))
     # client, id =setup_experiment()
 
-    # delete_version(client, 'temp-pred', 1)
+    # version = 1
+    # delete_version(client, 'temp-pred', version)
 
-    with open("myfile.txt", "w") as file1:
+    # with open("myfile.txt", "w") as file1:
     # Writing data to a file
-        file1.write(os.getenv('AWS_SECRET_ACCESS_KEY'))
+    #    file1.write(os.getenv('AWS_SECRET_ACCESS_KEY'))
     #print(id)
     # mlflow.delete_experiment(id)
     

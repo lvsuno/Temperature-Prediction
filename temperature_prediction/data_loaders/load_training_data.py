@@ -37,6 +37,9 @@ def load_data_from_api(*args, **kwargs) -> Tuple[
     df_val[categorical] = df_val[categorical].astype(str)
    
     X_train, X_val, dv = vectorize_features(df_train,df_val)
+
+    if not os.path.exists(f'{folder}DictVect/'):
+        os.makedirs(f'{folder}DictVect/')
     
     with open(f'{folder}DictVect/dictvectorizer.bin', 'wb') as f_out:
         pickle.dump(dv, f_out)

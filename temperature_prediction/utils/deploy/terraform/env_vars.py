@@ -41,6 +41,8 @@ def update_json_file(file_path, new_variables):
 
 
 def set_environment_variables(
+    aws_access_key_id: Optional[str] = None,
+    aws_secret_access_key: Optional[str] = None,
     password: Optional[str] = None,
     username: Optional[str] = None,
     smtp_email: Optional[str] = None,
@@ -59,6 +61,31 @@ def set_environment_variables(
     variables = {}
     variables_main_tf = {}
     env_vars_to_add = []
+
+    if aws_access_key_id:
+        os.environ['TF_VAR_aws_access_key_id'] = aws_access_key_id or ''
+        variables['aws_access_key_id'] = '""'
+        variables_main_tf['aws_access_key_id'] = 'var.aws_access_key_id'
+        env_vars_to_add.append(
+            {
+                "name": 'AWS_ACCESS_KEY_ID',
+                "value": '${aws_access_key_id}'
+            }
+        )
+
+    if aws_access_key_id:
+        os.environ['TF_VAR_aws_secret_access_key'] = aws_secret_access_key or ''
+        variables['aws_secret_access_key'] = '""'
+        variables_main_tf['aws_secret_access_key'] = 'var.aws_secret_access_key'
+        env_vars_to_add.append(
+            {
+                "name": 'AWS_SECRET_ACCESS_KEY',
+                "value": '${aws_secret_access_key}'
+            }
+        )
+        
+
+
     if smtp_email:
         os.environ['TF_VAR_smtp_email'] = smtp_email or ''
         variables['smtp_email'] = '""'

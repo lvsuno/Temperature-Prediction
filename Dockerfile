@@ -11,15 +11,24 @@ COPY ${PROJECT_NAME} ${PROJECT_NAME}
 
 
 # Copy the data directory
-# COPY data  data
+COPY data  data
 
 # COPY download_stations_id.py  download_stations_id.py
 
 
 ENV USER_CODE_PATH=${USER_CODE_PATH}
 
+# Update pip as certain packages (ex: XGBoost) need certain versions of pip
+RUN pip install -U pip 
+RUN pip install pipenv
+
 # Install custom Python libraries and dependencies for your project.
 RUN pip3 install -r ${USER_CODE_PATH}/requirements.txt
+
+COPY ["Pipfile", "Pipfile.lock", "./"]
+#--system installs the environment in the parent OS in the container
+#--deploy makes sure Pipfile.lock is up-to-date and will crash if it isn't
+RUN pipenv install --system --deploy
 
 ENV PYTHONPATH="${PYTHONPATH}:${MAGE_CODE_PATH}/${PROJECT_NAME}"
 
@@ -36,4 +45,3 @@ RUN ls
 
 CMD ["/bin/sh", "-c", "/app/run_app.sh"]
 
-COPY download_stations_id.py  download_stations_id.py

@@ -15,6 +15,12 @@ STATIONS_FOLDER = 'data/stations/'
 OLD_TRAINING_FOLDER = 'data/Training/old/'
 NEW_DATA_FOLDER = 'data/Training/new/'
 
+if not os.path.exists(OLD_TRAINING_FOLDER):
+    os.makedirs(OLD_TRAINING_FOLDER)
+
+if not os.path.exists(NEW_DATA_FOLDER):
+    os.makedirs(NEW_DATA_FOLDER)
+
 
 # Call Environment Canada API
 # Returns a dataframe of data

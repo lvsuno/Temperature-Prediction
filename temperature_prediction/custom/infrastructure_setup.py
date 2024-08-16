@@ -17,15 +17,17 @@ def setup(*args, **kwargs):
     """
     Downloads the base configurations for Terraform maintained and provided by Mage
     https://github.com/mage-ai/mage-ai-terraform-templates
+    I modified this template so that it can be suitable for my configuration
+    https://github.com/lvsuno/mage-ai-terraform-templates.git
 
     1. Updates variables in the Terraform variables file.
     2. Adds variables into the main.tf template env_vars.
     3. Adds environment variables to env_vars.json.
 
     prevent_destroy_ecr:
-        True
+        True ### I put it to false so that i could remove the image in ecr also
     project_name:
-        "mlops"
+        "temperature_prediction"
 
     Use the current environment variables as the environment variables in production.
     Change this if you want different values.
@@ -41,6 +43,8 @@ def setup(*args, **kwargs):
     )
 
     set_environment_variables(
+        aws_access_key_id=kwargs.get('aws_access_key_id', os.getenv('AWS_ACCESS_KEY_ID')),
+        aws_secret_access_key=kwargs.get('aws_secret_access_key', os.getenv('AWS_SECRET_ACCESS_KEY')),
         password=kwargs.get('password', os.getenv('POSTGRES_PASSWORD')),
         username=kwargs.get('username', os.getenv('POSTGRES_USER')),
         smtp_email=kwargs.get('smtp_email', os.getenv('SMTP_EMAIL')),
