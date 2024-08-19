@@ -8,7 +8,9 @@ from temperature_prediction.utils.deploy.terraform.constants import (
 def run_terraform_commands(subfolder: str) -> None:
     try:
         # Initialize the Terraform configuration in the specified subfolder
-        subprocess.run(['terraform', '-chdir=' + subfolder, 'init', '-reconfigure'], check=True)
+        subprocess.run(
+            ['terraform', '-chdir=' + subfolder, 'init', '-reconfigure'], check=True
+        )
         # Apply the Terraform configuration in the specified subfolder
         subprocess.run(
             ['terraform', '-chdir=' + subfolder, 'apply', '-auto-approve'], check=True
@@ -30,10 +32,10 @@ def terraform_destroy() -> None:
         subprocess.run(
             [
                 'terraform',
-                '-chdir=' + TERRAFORM_AWS_FULL_PATH, 
-                'init', 
+                '-chdir=' + TERRAFORM_AWS_FULL_PATH,
+                'init',
                 '-reconfigure',
-            ], 
+            ],
             check=True,
         )
 

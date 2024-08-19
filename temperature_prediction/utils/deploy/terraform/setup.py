@@ -35,7 +35,14 @@ def setup_configurations(
     docker_image = '"mageai/mageai:alpha"'
     aws_region = '"us-east-1"'
     ecs_task_cpu = 4096
-    availability_zones = ["us-east-1a", "us-east-1b", "us-east-1c", "us-east-1d", "us-east-1e", "us-east-1f"]
+    availability_zones = [
+        "us-east-1a",
+        "us-east-1b",
+        "us-east-1c",
+        "us-east-1d",
+        "us-east-1e",
+        "us-east-1f",
+    ]
 
     print('Updating variables in variables.tf')
     print(f'  "app_name"            = {project_name}')
@@ -51,7 +58,7 @@ def setup_configurations(
         "enable_ci_cd": True,
         "aws_region": aws_region,
         "ecs_task_cpu": ecs_task_cpu,
-        "availability_zones": availability_zones
+        "availability_zones": availability_zones,
     }
 
     if prevent_destroy_ecr is not None:
@@ -62,5 +69,10 @@ def setup_configurations(
 
     update_json_file(
         os.path.join(TERRAFORM_AWS_FULL_PATH, f'{ENV_VARS_KEY}.json'),
-        [{"name": 'MAGE_PRESENTERS_DIRECTORY', "value": 'temperature_prediction/presenters'}],
+        [
+            {
+                "name": 'MAGE_PRESENTERS_DIRECTORY',
+                "value": 'temperature_prediction/presenters',
+            }
+        ],
     )

@@ -1,20 +1,20 @@
 if 'data_loader' not in globals():
     from mage_ai.data_preparation.decorators import data_loader
-if 'test' not in globals():
-    from mage_ai.data_preparation.decorators import test
+# if 'test' not in globals():
+#     from mage_ai.data_preparation.decorators import test
 
 import json
 
 
 @data_loader
 def load_data(*args, **kwargs):
-#     """
-#     Template code for loading data from any source.
+    #     """
+    #     Template code for loading data from any source.
 
-#     Returns:
-#         Anything (e.g. data frame, dictionary, array, int, str, etc.)
-#     """
-#     # Opening JSON file
+    #     Returns:
+    #         Anything (e.g. data frame, dictionary, array, int, str, etc.)
+    #     """
+    #     # Opening JSON file
     # f = open('data/result.json')
 
     # # returns JSON object as

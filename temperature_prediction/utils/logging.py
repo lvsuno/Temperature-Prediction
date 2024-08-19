@@ -367,7 +367,7 @@ def load_models(model_name: str, stage: str) -> Any:
     """
     Loads the latest model saved before given the model name and stage.
     """
-
+    mlflow.set_tracking_uri(DEFAULT_TRACKING_URI)
     # Get the model in the stage
     model_stage_uri = f"models:/{model_name}/{stage}"
     print(f"Loading registered {stage} model version from URI: {model_stage_uri}")

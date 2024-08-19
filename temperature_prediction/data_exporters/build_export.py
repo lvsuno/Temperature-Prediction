@@ -32,7 +32,7 @@ def export(data: Tuple[DataFrame, DataFrame, DataFrame], *args, **kwargs) -> Tup
     y_train = df_train[target]
     y_val = df_val[target]
 
-    if kwargs.get('first_training')==1:
+    if kwargs.get('first_training') == '1':
         folder = kwargs.get('OLD_TRAINING_FOLDER')
     else:
         folder = kwargs.get('NEW_DATA_FOLDER')

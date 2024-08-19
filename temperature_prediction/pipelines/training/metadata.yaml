@@ -121,8 +121,7 @@ tags: []
 type: python
 uuid: training
 variables:
-  model_production_rmse: '5.092322'
-  model_staging_rmse: '7.044525'
-  staging_model_version: '2'
+  model_production_rmse: '3.7847133'
+  model_staging_rmse: '3.9956121'
 variables_dir: /home/src/mage_data/.
 widgets: []

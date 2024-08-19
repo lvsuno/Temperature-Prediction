@@ -10,12 +10,12 @@ blocks:
   language: python
   name: detect_new_data
   retry_config: null
-  status: executed
+  status: updated
   timeout: null
   type: sensor
   upstream_blocks: []
   uuid: detect_new_data
-- all_upstream_blocks_executed: true
+- all_upstream_blocks_executed: false
   color: blue
   configuration: {}
   downstream_blocks: []

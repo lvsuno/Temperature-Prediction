@@ -1,19 +1,18 @@
-import io
-import pandas as pd
-from typing import List, Tuple
+import os
 import pickle
+from typing import Tuple
 
-from pandas import DataFrame, Series
+import pandas as pd
+from pandas import Series
 from scipy.sparse._csr import csr_matrix
-from sklearn.base import BaseEstimator
 
 if 'data_loader' not in globals():
     from mage_ai.data_preparation.decorators import data_loader
 if 'test' not in globals():
     from mage_ai.data_preparation.decorators import test
 
-from temperature_prediction.utils.data_preparation.feature_selector import select_features
 from temperature_prediction.utils.data_preparation.encoders import vectorize_features
+
 
 @data_loader
 def load_data_from_api(*args, **kwargs) -> Tuple[
@@ -35,12 +34,12 @@ def load_data_from_api(*args, **kwargs) -> Tuple[
     categorical = ['Station ID']
     df_train[categorical] = df_train[categorical].astype(str)
     df_val[categorical] = df_val[categorical].astype(str)
-   
-    X_train, X_val, dv = vectorize_features(df_train,df_val)
+
+    X_train, X_val, dv = vectorize_features(df_train, df_val)
 
     if not os.path.exists(f'{folder}DictVect/'):
         os.makedirs(f'{folder}DictVect/')
-    
+
     with open(f'{folder}DictVect/dictvectorizer.bin', 'wb') as f_out:
         pickle.dump(dv, f_out)
 
@@ -48,7 +47,7 @@ def load_data_from_api(*args, **kwargs) -> Tuple[
 
 
 @test
-def test_set_dimension(  
+def test_set_dimension(
     X_train: csr_matrix,
     X_val: csr_matrix,
     y_train: Series,
@@ -59,7 +58,8 @@ def test_set_dimension(
     assert (
         X_train.shape[1] == X_val.shape[1]
     ), f'Training set and the validation set for training model should have the same number of features.'
- 
+
+
 @test
 def test_training_set(
     X_train: csr_matrix,

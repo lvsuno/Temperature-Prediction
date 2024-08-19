@@ -67,10 +67,7 @@ def set_environment_variables(
         variables['aws_access_key_id'] = '""'
         variables_main_tf['aws_access_key_id'] = 'var.aws_access_key_id'
         env_vars_to_add.append(
-            {
-                "name": 'AWS_ACCESS_KEY_ID',
-                "value": '${aws_access_key_id}'
-            }
+            {"name": 'AWS_ACCESS_KEY_ID', "value": '${aws_access_key_id}'}
         )
 
     if aws_access_key_id:
@@ -78,13 +75,8 @@ def set_environment_variables(
         variables['aws_secret_access_key'] = '""'
         variables_main_tf['aws_secret_access_key'] = 'var.aws_secret_access_key'
         env_vars_to_add.append(
-            {
-                "name": 'AWS_SECRET_ACCESS_KEY',
-                "value": '${aws_secret_access_key}'
-            }
+            {"name": 'AWS_SECRET_ACCESS_KEY', "value": '${aws_secret_access_key}'}
         )
-        
-
 
     if smtp_email:
         os.environ['TF_VAR_smtp_email'] = smtp_email or ''

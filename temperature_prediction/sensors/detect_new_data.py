@@ -38,6 +38,8 @@ def check_for_new_data(*args, **kwargs) -> bool:
     """
     Template code for checking if block or pipeline run completed.
     """
+    target_drift = False
+    dataset_drift = False
 
     if os.path.isfile(f'{NEW_DATA_FOLDER}X_train.csv'):
 

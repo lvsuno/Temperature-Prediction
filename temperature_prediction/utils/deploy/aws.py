@@ -233,10 +233,12 @@ def delete_all_access_keys_for_user(user_name):
 
 
 def reset(user_name: str, cicd: Optional[bool] = None):
-    
+
     if not cicd:
         detach_policy_from_user(user_name, POLICY_NAME_TERRAFORM_APPLY_DEPLOY_MAGE)
-        detach_policy_from_user(user_name, POLICY_NAME_TERRAFORM_DESTROY_DELETE_RESOURCES)
+        detach_policy_from_user(
+            user_name, POLICY_NAME_TERRAFORM_DESTROY_DELETE_RESOURCES
+        )
         delete_policy(POLICY_NAME_TERRAFORM_APPLY_DEPLOY_MAGE)
         delete_policy(POLICY_NAME_TERRAFORM_DESTROY_DELETE_RESOURCES)
     else:

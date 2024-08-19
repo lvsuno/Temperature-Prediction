@@ -55,5 +55,5 @@ override.tf.json
 
 .env
 
-
-.github/
+.docker_password.txt
+.perso

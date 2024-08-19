@@ -1,7 +1,7 @@
 if 'data_loader' not in globals():
     from mage_ai.data_preparation.decorators import data_loader
-if 'test' not in globals():
-    from mage_ai.data_preparation.decorators import test
+# if 'test' not in globals():
+#     from mage_ai.data_preparation.decorators import test
 
 import os
 
@@ -33,23 +33,23 @@ import os
 
 @data_loader
 def load_data(*args, **kwargs):
-#     """
-#     Template code for loading data from any source.
+    #     """
+    #     Template code for loading data from any source.
 
-#     Returns:
-#         Anything (e.g. data frame, dictionary, array, int, str, etc.)
-#     """
-#     # Specify your data loading logic here
-#     model = load_models(MODEL_NAME, 'production')
-#     if not os.path.isfile(f"{model.metadata.run_id}/dictvectorizer.bin"):
-#         os.makedirs(f"{model.metadata.run_id}/")
-#         relative_path = f'{model.metadata.run_id}/'
-#         path = client.download_artifacts(
-#             run_id=model.metadata.run_id,
-#             path='models_mlflow/dictvectorizer.bin',
-#             dst_path=relative_path,
-#         )
-#         print(f'downloading the dict vectorizer to {path}')
+    #     Returns:
+    #         Anything (e.g. data frame, dictionary, array, int, str, etc.)
+    #     """
+    #     # Specify your data loading logic here
+    #     model = load_models(MODEL_NAME, 'production')
+    #     if not os.path.isfile(f"{model.metadata.run_id}/dictvectorizer.bin"):
+    #         os.makedirs(f"{model.metadata.run_id}/")
+    #         relative_path = f'{model.metadata.run_id}/'
+    #         path = client.download_artifacts(
+    #             run_id=model.metadata.run_id,
+    #             path='models_mlflow/dictvectorizer.bin',
+    #             dst_path=relative_path,
+    #         )
+    #         print(f'downloading the dict vectorizer to {path}')
     print(os.getenv('AWS_ACCESS_KEY_ID'))
     return os.getenv('aws_access_key_id')
 

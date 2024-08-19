@@ -43,8 +43,12 @@ def setup(*args, **kwargs):
     )
 
     set_environment_variables(
-        aws_access_key_id=kwargs.get('aws_access_key_id', os.getenv('AWS_ACCESS_KEY_ID')),
-        aws_secret_access_key=kwargs.get('aws_secret_access_key', os.getenv('AWS_SECRET_ACCESS_KEY')),
+        aws_access_key_id=kwargs.get(
+            'aws_access_key_id', os.getenv('AWS_ACCESS_KEY_ID')
+        ),
+        aws_secret_access_key=kwargs.get(
+            'aws_secret_access_key', os.getenv('AWS_SECRET_ACCESS_KEY')
+        ),
         password=kwargs.get('password', os.getenv('POSTGRES_PASSWORD')),
         username=kwargs.get('username', os.getenv('POSTGRES_USER')),
         smtp_email=kwargs.get('smtp_email', os.getenv('SMTP_EMAIL')),
