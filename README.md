@@ -69,9 +69,12 @@ For the Mlops_zoomcamp final project, i choose to implement a simple solution to
 ## 1 Data preparation pipeline
 
 We only used two features namely `Date/Time (LST)` and `stationID` and the goal is to predict `Temp (°C)`.
+
 ![data preparation](images/data_preparation_pipeline.png)
 
 ## 2 Training pipeline
+
+We used Xgboost as regression model. We track the experiment with mlfow and register the model having the best score. In the `test_and_promote` block, we compared the registred model with the previous and promote it to production stage if it is the best model.
 
 ![Training](images/Training_pipeline.png)
 
@@ -85,7 +88,7 @@ When a new data is available in the system, we run evidently to check any "Colum
 
 We orchestrate our pipelines with Mage.ai
 
-![Mage triggers](images/mage_triggers.png)
+![Mage triggers](images/Mage_triggers.png)
 
 ## 5 Model deployment
 
