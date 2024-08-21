@@ -27,7 +27,8 @@ disable = [
     "duplicate-code",
     "ungrouped-imports",
     "protected-access",
-    "trailing-newlines"
+    "trailing-newlines",
+    "check-added-large-files"
 ]
 
 [tool.black]
