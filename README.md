@@ -78,6 +78,9 @@ We used Xgboost as regression model. We track the experiment with mlfow and regi
 
 ![Training](images/Training_pipeline.png)
 
+
+![Tracking](images/Mlflow_tracking.png)
+
 ## 3 Monitoring-pipleine
 
 When a new data is available in the system, we run evidently to check any "Column Drift" or "Dataset Drift". When a drift is observed, we retraining the model with the old and new data.
