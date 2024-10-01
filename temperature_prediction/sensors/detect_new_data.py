@@ -108,6 +108,8 @@ def check_for_new_data(*args, **kwargs) -> bool:
         os.remove(f'{NEW_DATA_FOLDER}y_train.csv')
         os.remove(f'{NEW_DATA_FOLDER}y_val.csv')
 
+    print(target_drift)
+    print(dataset_drift)
     if target_drift:
         should_train = True
         print('Retraining models...')
